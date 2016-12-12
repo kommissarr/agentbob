@@ -64,7 +64,8 @@ class scrape:
         
         print("Scraping for a href links with urls containing: " + tag[0])
         listoflinks = []
-
+        otherlinks =[]
+        listdict = {}
         #open file for writing
         temphtml = open(rawfile, "r")
         #converts temphtml markup to text (soup)
@@ -80,7 +81,7 @@ class scrape:
             links = link.get('href')
 
             #avoid scraping duplicate links
-            if links in listoflinks:
+            if links in listoflinks or links in otherlinks:
                 continue
             #link must be in string format
             if type(links) == str:
@@ -94,15 +95,20 @@ class scrape:
                 #if the link is associated with the root website or its tags derived from keywords in the URL
                 if tag[0] in netloc:
                     listoflinks.append(links)
-                    
+                
+        
+        #Add to dictionary to be inserted into mongodb 
+        listdict["Associated links"] = listoflinks
+        #listdict["Non-associated links"] = otherlinks            
+        
         print ("Number of associated links on page: " + str(len(listoflinks)))             
-
+        
         #writes listoflinks into txt file to be crawled later on
         
-        for ele in range(0, len(listoflinks)):
-            linkfile.write(listoflinks[ele])
-            linkfile.write("\n")
+        # for ele in range(0, len(listoflinks)):
+        #     linkfile.write(listoflinks[ele])
+        #     linkfile.write("\n")
         temphtml.close()
         linkfile.close()         
-
+        return listdict
     
