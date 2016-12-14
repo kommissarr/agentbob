@@ -7,7 +7,6 @@ from bs4 import BeautifulSoup
 class scrape:
 
     name = ""
-
     website = ""
     tempfile = ""
     regex = "^\/[a]"
@@ -35,26 +34,25 @@ class scrape:
             pagedata.close()
         print ("HTTP status code:", HTTPstatus, goodtogo, "\nTemp file location ",tempfile)
 
-    #pulls text from htmlfiles
-    def htmlsanitize(self, tempfile, outfile):
+    #pulls text from htmlfiles and puts it in a [] to be added to dictionary
+    def htmlsanitize(self, inputfile):
         
-        temphtml = tempfile
-        print ("HTMLParsing/Sanitizing raw html data...")
-        #opens temp file 
-        htmlfile = open(temphtml, "r", 1)
-        # inserts into new txt file
-        sanitizedfile = open(outfile, "w")
-        txt = htmlfile.read()
-        #get rid of scripts and headers of the raw html data
-        txt = html2text.html2text(txt, "utf-8")
-        #writes sanitized text into a new temp file 
-        sanitizedfile.write(txt)
-        # close files
-        htmlfile.close()
-        sanitizedfile.close()
+        input = open(inputfile, "r")
+        soup = BeautifulSoup(input, "html.parser")
+        output = ""
+        for txt in soup.find_all("p"):
+            para = str(txt.string)
+            if para == "None":
+                continue         
+            else: 
+                output = output + para
+
+        #output = [el.replace('\xa0',' ') for el in output]
+        input.close()
+        return output 
 
 
-
+    
     #rawfile is the rawhtml txt file
     #website is the rootwebsite to be appended to if the scraped link is relative
     def linkscraper(self, rawfile, website):
@@ -64,8 +62,7 @@ class scrape:
         
         print("Scraping for a href links with urls containing: " + tag[0])
         listoflinks = []
-        otherlinks =[]
-        listdict = {}
+
         #open file for writing
         temphtml = open(rawfile, "r")
         #converts temphtml markup to text (soup)
@@ -81,7 +78,7 @@ class scrape:
             links = link.get('href')
 
             #avoid scraping duplicate links
-            if links in listoflinks or links in otherlinks:
+            if links in listoflinks:
                 continue
             #link must be in string format
             if type(links) == str:
@@ -98,7 +95,7 @@ class scrape:
                 
         
         #Add to dictionary to be inserted into mongodb 
-        listdict["Associated links"] = listoflinks
+        #listdict["Associated links"] = listoflinks
         #listdict["Non-associated links"] = otherlinks            
         
         print ("Number of associated links on page: " + str(len(listoflinks)))             
@@ -110,5 +107,5 @@ class scrape:
         #     linkfile.write("\n")
         temphtml.close()
         linkfile.close()         
-        return listdict
+        return listoflinks
     
