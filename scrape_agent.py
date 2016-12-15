@@ -45,6 +45,7 @@ class scrape:
             if para == "None":
                 continue         
             else: 
+                
                 output = output + para
 
         #output = [el.replace('\xa0',' ') for el in output]

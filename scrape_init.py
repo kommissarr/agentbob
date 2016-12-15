@@ -5,12 +5,13 @@ from pymongo import MongoClient
 
 __name__ = "__scraper__"
 bob = scrape_agent.scrape("bob")
-website = "http://www.mieliestronk.com/corncob_caps.txt" 
+website = "https://www.bloomberg.com/news/articles/2016-12-14/gold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger" 
 template = {}
 client = MongoClient()
+database_name = "sdb"
+dbs = client[database_name]
+collection_name = 'another'
 
-collection_name = 'cahn'
-dbs = client[collection_name]
 temphtml = "rawhtml.txt"
 
 print ("Writing to database: " + dbs.name)
@@ -24,12 +25,14 @@ collcount = dbs[collection_name].count()
 #     print (words)
 txt = bob.htmlsanitize(temphtml)
 
-dbs.cahn.ensure_index("Associated_links")
+#dbs.cahn.ensure_index("Associated_links")
 template["Associated_links"] = listoflinks
 template["HTML_text"] = txt
 template["URL:"] = website
 template["Time:"] = str(datetime.datetime.today())
 
-print (template)
-dbs.cahn.insert_one(template)
-print ("There are currently " + str(collcount) + "  documents in collection: " + dbs.cahn.name)
+#print (template)
+
+dbs[collection_name].update(template,{})
+print ("There are currently " + str(collcount) + "  documents in collection: " + dbs[collection_name].name)
+client.close()
