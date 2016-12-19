@@ -32,5 +32,6 @@ def nlpspace():
 
     print (txt)
     print (publishtime)
+    print (page_title)
         
 nlpspace()

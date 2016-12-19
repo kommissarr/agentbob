@@ -1,795 +1,2649 @@
+<!DOCTYPE html>
+  <!--[if lt IE 7]>      <html lang="en-AU" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+  <!--[if IE 7]>         <html lang="en-AU" class="lt-ie9 lt-ie8"> <![endif]-->
+  <!--[if IE 8]>         <html lang="en-AU" class="lt-ie9"> <![endif]-->
+  <!--[if gt IE 8]><!--> <html lang="en-AU"> <!--<![endif]-->
+<head>
+  <title>Malaysian PM Najib Razak voices support for Islamic laws as he seeks to bolster support - ABC News (Australian Broadcasting Corporation)</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+<link rel="schema.iptc" href="urn:newsml:iptc.org:20031010:topicset.iptc-genre:8"/>
+<link rel="canonical" data-abc-platform="standard" href="http://www.abc.net.au/news/2016-11-29/malaysian-pm-najib-razak-voices-support-for-islamic-laws-as-he-/8076766"/>
+<meta name="title" content="Malaysian PM voices support for Islamic laws"/>
+                <meta name="description" content="Malaysia&#039;s Prime Minister Najib Razak expresses support for strict Islamic laws as he seeks to consolidate support of ethnic Malay Muslims at a party meeting this week."/>
+                <meta name="keywords" content="najib razak, hudud, sharia law, umno, 1md, mahathir mohamad"/>
+                <meta name="ICBM" content="2.5,112.5"/>
+                <meta name="geo.position" content="2.5;112.5"/>
+                <meta name="ContentId" content="8076766"/>
+                <meta name="ABC.site" content="ABC News"/>
+                <meta name="ABC.editorialGenre" content="News &amp; Current Affairs"/>
+                <meta name="ABC.tags" content="law-crime-and-justice;world-politics;corruption"/>
+                <meta name="ABC_WCMS_sitesearch_include" content="true"/>
+                <meta name="twitter:card" content="summary"/>
+                <meta name="DC.Publisher.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.rights" scheme="DCTERMS.URI" content="http://www.abc.net.au/conditions.htm#UseOfContent"/>
+        <meta name="DC.rightsHolder" content="Reuters"/>
+                <meta name="DC.type" content="Text"/>
+                <meta name="DC.type" scheme="iptc-genre" content="Current"/>
+        <meta name="DC.title" content="Malaysian PM voices support for Islamic laws"/>
+                <meta name="DC.creator.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.date" scheme="DCTERMS.W3CDTF" content="2016-11-29T20:03:54+1100"/>
+        <meta name="DC.format" scheme="DCTERMS.IMT" content="text/html"/>
+        <meta name="DC.identifier" scheme="DCTERMS.URI" content="http://www.abc.net.au/news/2016-11-29/malaysian-pm-najib-razak-voices-support-for-islamic-laws-as-he-/8076766"/>
+          <meta name="DC.language" scheme="DCTERMS.RFC3066" content="en-AU"/>
+        <meta name="DC.subject" scheme="ABCTERMS.subject" content="Law, Crime and Justice;Government and Politics:World Politics;Law, Crime and Justice:Corruption"/>
+        <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2016-11-29T20:03:54+1100"/>
+        <meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="2016-11-29T20:03:54+1100"/>
+        <meta name="DCTERMS.spatial" content="Malaysia;Asia"/>
+                <meta name="DCTERMS.spatial" scheme="DCTERMS.DCMIPoint" content="east=112.5;north=2.5"/>
+        <meta property="og:title" content="Malaysian PM voices support for Islamic laws"/>
+                <meta property="og:description" content="Malaysia&#039;s Prime Minister Najib Razak expresses support for strict Islamic laws as he seeks to consolidate support of ethnic Malay Muslims at a party meeting this week."/>
+                <meta property="og:url" content="http://www.abc.net.au/news/2016-11-29/malaysian-pm-najib-razak-voices-support-for-islamic-laws-as-he-/8076766"/>
+                <meta property="og:image" content="http://www.abc.net.au/news/image/7360622-1x1-700x700.jpg"/>
+                <meta property="og:image:type" content="image/jpeg"/>
+                <meta property="og:image:width" content="700"/>
+                <meta property="og:image:height" content="700"/>
+                <meta name="twitter:image" content="http://www.abc.net.au/news/image/7360622-1x1-700x700.jpg"/>
+                <meta property="og:type" content="Article"/>
+                <meta property="og:updated_time" content="2016-11-29T20:03:54+1100"/>
+                <meta property="article:published_time" content="2016-11-29T20:03:54+1100"/>
+                <meta property="article:modified_time" content="2016-11-29T20:03:54+1100"/>
+                <meta property="article:publisher" content="https://www.facebook.com/abcnews.au"/>
+                <meta property="article:tag" content="najib razak"/>
+                <meta property="article:tag" content="hudud"/>
+                <meta property="article:tag" content="sharia law"/>
+                <meta property="article:tag" content="umno"/>
+                <meta property="article:tag" content="1md"/>
+                <meta property="article:tag" content="mahathir mohamad"/>
+                <meta property="article:tag" content="Malaysia"/>
+                <meta property="article:tag" content="Asia"/>
+                <meta property="article:tag" content="Law, Crime and Justice"/>
+                <meta property="article:tag" content="World Politics"/>
+                <meta property="article:tag" content="Government and Politics"/>
+                <meta property="article:tag" content="Corruption"/>
+                <meta property="og:site_name" content="ABC News"/>
+                <meta name="twitter:site" content="@ABCNews"/>
+                <meta name="showNFOS" content="true"/>
+                <link rel="alternate" data-abc-platform="mobile" media="only screen and (max-width: 640px)" href="http://mobile.abc.net.au/news/2016-11-29/malaysian-pm-najib-razak-voices-support-for-islamic-laws-as-he-/8076766"/>
+  <link media="screen, projection" rel="stylesheet" type="text/css"
+                                                                              href="http://www.abc.net.au/res/bundles/2.0.5/styles/abc.bundle.2.0.5.min.css"/>
+    <link rel="stylesheet" type="text/css"
+                                                                              href="http://www.abc.net.au/res/sites/news/styles/min/abc.news.css?2016-10-31"/>
+    <!--[if lte IE 7]>
+            <link rel="stylesheet" type="text/css" href="http://www.abc.net.au/res/sites/news/styles/yaml/core/slim_iehacks.css" media="screen, projection"/>
+           <![endif]-->
+         <link rel="alternate" type="application/rss+xml" title="Just In" href="/news/feed/51120/rss.xml">
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://www.abc.net.au/cm/cb/4355908/News+iOS+76x76/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://www.abc.net.au/cm/cb/4355924/News+iOS+120x120/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://www.abc.net.au/cm/cb/4355926/News+iOS+152x152/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://www.abc.net.au/cm/cb/4355930/News+iOS+180x180/data.png"/>
+    <script type="text/javascript" src="/news/ajax/45902/managed.js"></script>
+<!--[if lte IE 9]><script type="text/javascript" src="http://www.abc.net.au/res/libraries/es5shim/4.1.0/es5-shim.min.js"></script><![endif]-->
+        <!--[if lt IE 9]><script type="text/javascript" src="http://www.abc.net.au/res/bundles/2.0.5/scripts/html5shiv.js"></script><![endif]-->
+        <script type="text/javascript" src="http://www.abc.net.au/res/libraries/jquery/jquery-1.11.3.min.js"></script>
+        <!--[if lte IE 9]><script type="text/javascript" src="http://www.abc.net.au/res/libraries/iecors/jquery.iecors.min.js"></script><![endif]-->
+        <script type="text/javascript" src="http://www.abc.net.au/res/libraries/location/abc.location-1.latest.min.js"></script>
+        <script type="text/javascript" src="http://www.abc.net.au/res/bundles/platforms/abc.bundle.platforms-1.0.min.js"></script>
+        <script type="text/javascript" src="http://www.abc.net.au/res/libraries/jquery/plugins/jquery.viewport.mini.js"></script>
+        <script type="text/javascript" src="http://www.abc.net.au/res/sites/news/scripts/min/abc.news.js?2016-11-23"></script>
+        </head>
+<body class="platform-standard news story_page">
+<!--noindex-->
+<!-- Start ABC Bundle Header 2.0.5 -->
+<nav id="abcHeader" class="global" role="navigation" aria-label="ABC Network Navigation" data-resourcebase="http://www.abc.net.au/res/bundles/2.0.5/" data-scriptsbase="http://www.abc.net.au/res/bundles/2.0.5/scripts/" data-version="2.0.5">
+ <a class="abcLink home" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/"><img src="http://www.abc.net.au/res/bundles/2.0.5/images/logo-abc@2x.png" width="72" height="18" alt="" />ABC Home</a>
+ <div class="sites">
+  <a class="controller" href="javascript:;" aria-controls="abcNavSites"><img src="http://www.abc.net.au/res/bundles/2.0.5/images/icon-menu-grey@1x.gif" 
+   data-src="images/icon-menu-grey@1x.gif" data-hover="images/icon-menu-blue@1x.gif" class="icon" alt="" /><span class='text'><span>Open</span> Sites <span>menu</span></span></a>
+  <div id="abcNavSites" class="menu" role="menu" aria-expanded="false">
+   <ul>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/">ABC Home</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/news/" data-mobile="http://mobile.abc.net.au/news/">News</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/iview/" data-mobile="http://www.abc.net.au/iview/">iview</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/tv/" data-mobile="">TV</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/radio/" data-mobile="http://www.abc.net.au/radio/">Radio</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/children/" data-mobile="http://mobile.abc.net.au/children/">Kids</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="https://shop.abc.net.au/" data-mobile="https://shop.abc.net.au/">Shop</a></li>
+    <li><a class="abcLink more" role="menuitem" href="http://www.abc.net.au/more/" data-mobile="http://www.abc.net.au/more/">More</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="accounts">
+  <!-- Accounts is currently injected due to different URLs --><span data-src="images/icon-user-grey@1x.png" data-hover="images/icon-user-blue@1x.png"></span>
+ </div>
+ <a class="abcLink search" href="http://search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"
+  data-mobile="http://mobile.search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"><span>Search</span>
+  <img src="http://www.abc.net.au/res/bundles/2.0.5/images/icon-search-grey@1x.png" data-hover="images/icon-search-blue@1x.png" class="icon" alt="" /></a>
+</nav>
+<!-- End ABC Bundle Header 2.0.5 -->
+<!--endnoindex-->
+<!--noindex-->
+<div class="page_margins">
+  <div id="header" class="header">
+    <div class="brand">
+        <a href="/news/"><img class="print" src="/cm/lb/49430/data.png" alt="ABC News" width="388" height="100" />
+                <img class="noprint" src="/cm/lb/5340830/data/news-logo-data.png" alt="ABC News" width="242" height="80" />
+                </a></div>
+      <a href="/news/australia/" class="location-widget">Australia</a><a href="/news/weather/" class="weather-widget">Weather</a></div>
+  <div id="nav" class="nav">           
+  <ul id="primary-nav">
+        <li id="n-news" class="active"><a href="/news/">News Home</a></li><li id="n-justin" class=""><a href="/news/justin/">Just In</a></li><li id="n-us-election-2016" class=""><a href="/news/us-election-2016/">US Election</a></li><li id="n-australia" class=""><a href="/news/australia/">Australia</a></li><li id="n-world" class=""><a href="/news/world/">World</a></li><li id="n-business" class=""><a href="/news/business/">Business</a></li><li id="n-sport" class=""><a href="/news/sport/">Sport</a></li><li id="n-arts-culture" class=""><a href="/news/arts-culture/">Arts</a></li><li id="n-thedrum_dummy" class=""><a href="/news/analysis-and-opinion/">Analysis &amp; Opinion</a></li><li id="n-programs" class=""><a href="/news/programs/">Programs</a></li><li id="n-more" class=""><a href="/news/more/">More</a></li></ul>
+  </div>
+<!-- A modules - start -->
+  <!-- A modules - end -->
+  <div class="page section">
+    <div class="subcolumns">
+    <div class="c75l">
+      <!-- B modules - start -->
+      <div class="article section">
+    
 
-        <!doctype html>
-        <html xmlns:og="http://ogp.me/ns#">
-            <head>
-                <meta charset="utf-8">
-                
-        <script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[/s](d+.d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"32a39e099b",applicationID:"21536736",sa:1}</script>
+<div class="tools">
+  
     
-                
-                
-        <link rel="stylesheet" type="text/css" href="https://assets.bwbx.io/font-service/css/NHaasGroteskTXPro-55Rg,NHaasGroteskDSPro-75Bd,TiemposTextWeb-Regular,TiemposTextWeb-RegularItalic,TiemposHeadlineWeb-Bold,AvenirNext-Demi/font-face.css">
-    
-                <link href="https://assets.bwbx.io/javelin/public/css/application/application-bb74794f8e.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-                <link href="https://www.bbthat.com/assets/v1.2.1/that.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-                <link href="https://assets.bwbx.io/font-service/css/Bloomberg,NHaasGroteskTXPro-55Rg,NHaasGroteskDSPro-75Bd,NHaasGroteskDSPro-95Blk,AvenirNext-Demi/font-face.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://nav.bloomberg.com/public/stylesheets/bb-global-nav-8daee387bc.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-                <link href="https://assets.bwbx.io/javelin/public/css/nav/bb/nav-7925ef46ee.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-                <link href="https://assets.bwbx.io/javelin/public/css/components/breaking_news_placeholder/breaking_news-a6270d5f8e.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
-                <link href="https://assets.bwbx.io/javelin/public/css/layout/basic/basic-5035d81885.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/layout/basic/basic-96d239dc7c.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/layout/basic/basic-feab898b86.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/layout/basic/basic-a69847c3fa.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/layout/basic/basic-18b13ea089.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/layout/basic/basic-80068e7b37.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
-                <link href="https://assets.bwbx.io/javelin/public/css/ads/leaderboard/leaderboard-bf966d32e6.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/ads/leaderboard/leaderboard-290beb4fc2.tablet-desktop.css" media="(min-width:761px)" property="stylesheet" rel="stylesheet" type="text/css">
-                <link href="https://assets.bwbx.io/javelin/public/css/components/abstract/abstract-c1458b6375.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/components/author_tout/author_tout-1f08dd3eb5.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/components/author_tout/author_tout-e273b6df99.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/components/author_details/author_details-79b4455612.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/body/basic/body-df7b52d884.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/body/basic/newsletter_tout-954d205246.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/body/basic/body-20d0a82ef5.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/body/basic/in_article_ad-238ed3378a.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/body/basic/body-e74c024d6f.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/body/basic/newsletter_tout-5887db8153.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/body/basic/body-e886f59cb3.tablet-desktop.css" media="(min-width:761px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/body/basic/mobile_ads-10915d4c59.tablet-desktop.css" media="(min-width:761px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/body/basic/body-b820c41d19.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/body/basic/in_article_ad-1f3cd7d393.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/body/basic/in_article_ad-da16ca24ed.mobile-tablet.css" media="(max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/body/basic/body-2cfdf98971.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/body/basic/in_article_ad-4f5a3665c2.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/body/basic/mobile_ads-1a98e3a413.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/body/basic/newsletter_tout-12eaa8fd13.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/video/video-4703e086c5.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/video/video-d88c002e2c.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/video/video-36691f1d24.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/video/video-86bf2ad2f7.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/video/video-b10ee21246.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/text_only/text_only-a7a63d4786.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/text_only/text_only-341bfa3052.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/text_only/text_only-6a33ad34f5.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/text_only/text_only-b17a45ed53.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/text_only/text_only-a274b68c4a.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/ledes/basic/text_only/text_only-45fe32f1b1.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/components/recirc/recirc-54a5451ab9.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/components/sticky_video/sticky_video-abccaf05bd.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/ads/terminal_tout/terminal_tout-06ffd4bb61.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/ads/terminal_tout/terminal_tout-b55b132f21.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/themes/markets/markets-715ad110d0.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/javelin/public/css/components/recirc/recirc-54a5451ab9.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-                <link href="https://assets.bwbx.io/javelin/public/css/ads/native/native-15685ecbee.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-                <link href="https://assets.bwbx.io/javelin/public/css/components/image_viewer/image_viewer-b050485e3d.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/components/image_viewer/image_viewer-44ae116396.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/components/image_viewer/image_viewer-90a9b24409.mobile-tablet.css" media="(max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/components/image_viewer/image_viewer-0e5ec91ea4.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
-                <link href="https://assets.bwbx.io/javelin/public/css/print/print-1c3cb980b3.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-                <link href="https://assets.bwbx.io/javelin/public/css/components/truste/truste-28f6157d69.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/components/truste/truste-323c682892.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/components/truste/truste-5679a9f67c.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/components/truste/truste-932ba91b49.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css">
-<link href="https://assets.bwbx.io/javelin/public/css/components/truste/truste-53c717658f.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css">
-                <link href="https://assets.bwbx.io/font-service/css/Bloomberg/font-face.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://nav.bloomberg.com/public/stylesheets/bb-global-footer-52168e87bc.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
-                
-        <title>Gold Bounces From 10-Month Low Before Fed Reserve Rate Decision - Bloomberg</title>
-        <link rel="canonical" href="https://www.bloomberg.com/news/articles/2016-12-14/gold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger">
-        <meta name="description" content="Gold bounced from its lowest close in 10 months as traders hedge against any potential surprise from the U.S. Federal Reserve’s meeting where policy makers are expected to increase interest rates for the first time this year.">
-        <meta name="referrer" content="unsafe-url">
-        <meta name="referrer" content="always">
-        <meta property="og:description" content="Gold bounced from its lowest close in 10 months as traders hedge against any potential surprise from the U.S. Federal Reserve’s meeting where policy makers are expected to increase interest rates for the first time this year.">
-        <meta property="og:image" content="https://assets.bwbx.io/javelin/public/images/social-markets-3d32d2f713.jpg">
-        <meta property="og:site_name" content="Bloomberg.com">
-        <meta property="og:title" content="Gold Bounces From 10-Month Low Before Fed Reserve Rate Decision">
-        <meta property="og:type" content="article">
-        <meta property="og:url" content="https://www.bloomberg.com/news/articles/2016-12-14/gold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger">
-        <meta name="fb:status" content="Gold bounced from its lowest close in 10 months as traders hedge against any potential surprise from the U.S. Federal Reserve’s meeting where policy makers are expected to increase interest rates for the first time this year.">
-        <meta name="twitter:card" content="summary">
-        <meta name="twitter:description" content="Gold bounced from its lowest close in 10 months as traders hedge against any potential surprise from the U.S. Federal Reserve’s meeting where policy makers are expected to increase interest rates for the first time this year.">
-        <meta name="twitter:image" content="https://assets.bwbx.io/javelin/public/images/social-markets-3d32d2f713.jpg">
-        <meta name="twitter:site" content="@markets">
-        <meta name="twitter:title" content="Gold Bounces From 10-Month Low Before Fed Reserve Rate Decision">
-        <meta name="parsely-title" content="Gold Bounces From 10-Month Low Before Fed Reserve Rate Decision">
-        <meta name="parsely-link" content="https://www.bloomberg.com/news/articles/2016-12-14/gold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger">
-        <meta name="parsely-type" content="post">
-        <meta name="parsely-image-url" content="https://assets.bwbx.io/javelin/public/images/social-markets-3d32d2f713.jpg">
-        <meta name="parsely-pub-date" content="2016-12-14T01:45:26.584Z">
-        <meta name="parsely-section" content="markets">
-        <meta name="parsely-tags" content="Video Stories,Gold,Region: Global,Page: article">
-        <meta name="parsely-post-id" content="OI5JJQ6K50YC01">
-        <meta name="parsely-author" content="Luzi-Ann Javier">
-<meta name="parsely-author" content="Kevin Crowley">
-        
-        <script id="gtm-tracking-metadata" type="application/json">
-            {
-        "adcode": "markets/article",
-        "author": "Luzi Ann Javier and Kevin Crowley",
-        "publishedAt": "2016-12-14T01:45:26.584Z",
-        "storyId": "OI5JJQ6K50YC01",
-        "contentType": "content-article",
-        "pageType": "content",
-        "template": "javelin-article-html",
-        "vertical": "markets",
-        "topic": "Video Stories",
-        "attributor": "bn",
-        "brand": "markets",
-        "transporter": "false",
-        "refresh": "false",
-        "headline": "Gold Bounces From 10-Month Low Before Fed Reserve Rate Decision",
-        "slug": "2016-12-14/gold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger",
-        
+  
+  <a class="button"
+     href="http://www2b.abc.net.au/EAF/View/MailToQuery.aspx?http://www.abc.net.au/news/2016-11-29/malaysian-pm-najib-razak-voices-support-for-islamic-laws-as-he-/8076766"><span>Email</span></a>
+</div><!--endnoindex-->
+    <h1>Malaysian PM Najib Razak voices support for Islamic laws as he seeks to bolster support</h1>
 
-        "legacy_bb_c_type": "article",
-        "legacy_bb_topic1": "Gold",
-        "legacy_bb_topic2": "Currencies,Raw Materials,Monetary Policy,New York,Interest Rates,Federal Reserve",
-        "legacy_bb_people": "Janet L Yellen,Donald John Trump",
-        
-        "legacy_bb_category": "markets"
-    }
-        </script>
-    
-        
-    <link rel="icon"
-        type="image/png"
-        href="https://assets.bwbx.io/javelin/public/images/favicon-markets-10a5670e77.png">
-    
-    
-                
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-        <meta name="apple-mobile-web-app-capable" content="no">
-        <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    
-            </head>
-            <body data-theme="markets">
-                <script type="text/javascript">window.__bloomberg__=window.__bloomberg__||{};window.__bloomberg__.environment={"videoPlayerUrl":"https://cdn.gotraffic.net/projector/latest/bplayer.js","playlistPlayerEnabled":true,"psznTrackingUrl":"https://tracking.bloomberg.com/images/tracking-pixel.gif","psznRecommendationUrl":"https://personalization.bloomberg.com"};</script>
-                
-        <script type="text/javascript">
-            (function () {
-                if(typeof window.CustomEvent === "function") return false;
-                function CustomEvent(event, p) {
-                    p = p || {bubbles: false, cancelable: false, detail: undefined};
-                    var e = document.createEvent("CustomEvent");
-                    e.initCustomEvent(event, p.bubbles, p.cancelable, p.detail);
-                    return e;
-                }
-                CustomEvent.prototype = window.Event.prototype;
-                window.CustomEvent = CustomEvent;
-            })();
-        </script>
-    
-                
-        <script type="text/javascript">
-            window.__bloomberg__.ads = {};
-            window.__bloomberg__.ads.queue = [];
 
-            window.__bloomberg__.ads.adsOff = false;
 
-            window.__bloomberg__.ads.enqueue = function(id) {
-                if (window.__bloomberg__.ads.render) {
-                    return window.__bloomberg__.ads.render(id);
-                }
-                window.__bloomberg__.ads.queue.push(id);
-            };
-        </script>
+  
+  
     
-                
-    <div class="leaderboard-container">
-        <div id="leaderboard-iDpyoLD" class="leaderboard" data-position="leaderboard">
-            <script type="text/javascript">
-                window.__bloomberg__.ads.enqueue("leaderboard-iDpyoLD");
-            </script>
-            <script class="params" type="text/ld+json">
-                {
-                    "byzantium": {
-                        "contentId": "OI5JJQ6K50YC01"
-                    },
-                    "position": "leaderboard",
-                    "dimensions": {
-                        "large_desktop": [
-                            [728, 90],
-                            [970, 250],
-                            [5, 16],
-                            [1, 1]
-                        ],
-                        "small_desktop": [
-                            [728, 90],
-                            [970, 250],
-                            [5, 16],
-                            [1, 1]
-                        ],
-                        "tablet": [
-                            [728, 90],
-                            [5, 16],
-                            [1, 1]
-                        ],
-                        "mobile": [
-                            [5, 16],
-                            [1, 1]
-                        ]
-                    },
-                    "strategy": "always",
-                    "adCode": "markets/article",
-                    "url": "2016-12-14/gold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger",
-                    "type": "Top Leaderboard Ad",
-                    "positionIncrement": 1,
-                    "targeting": {"suid":"OI5JJQ6K50YC01","page":"articlejav","currentResource":"Story|OI5JJQ6K50YC01","ni":["AFRTOP","ALLTOP","ASBNX","BGOVALL","BGOVFINAN","BIZNEWS","BNALL","BNCOPY","BNCOPY2","BNSTAFF","BNTEAMS","BUSINESS","CATOP","CATOPZ3","CECO","CEN","CMD","CMDMARKET","CMDTOP","CMDTOPZ3","CMDX","DUPLICATE","ECO","EUBNX","EUCMDMKT","EUROPEME","EUROSTORY","FED","FINNEWS","FRXTOP","G7ECOS","GLD","GLDMARKET","GOV","GOVMISC","HLDUPLICAT","HLNOVELTY0","JSX","LATAMCMD","MARKETS","MET","METAMTEAM","METASTEAM","METEUTEAM","METMARKET","METTOP","METTOPZ2","MSCINAMER","MSCIWORLD","NONFERR","NORTHAM","NOVELTY0","NYX","ONWEB","PCS","PCSMARKET","POLNEWS","SSX","SWTOP","SWTOPZ3","TOP","TORX","UPDATE","US","USBNX","USECO","USGOV","USSTORY","USTOP","USTOPZ2","WEBCMMDTZD","ZATOP","ZATOPZ2","AFRICA","AGRKEY","AME","ATTACHMENT","BASIC","BBPROFILE","BGOVBILLGO","BGOVCODES","BON","BONDWIRES","WORLD","WEPFEX1","CBRATES","CMDGLOMAC","CMDKEY","COMSTAT","COS","WEBELIG","DC","DEBTKEY","DEVECO","TIMENI","EM","EMEAREGION","EQUITYKEY","TIMECO","PHOTO","FIASST","SRCRANK1","FXKEY","G10MEMB","G7MEMB","SPREGIONS","GLOMACBB","INDUSTRIES","INTERNAL","LEAST","MAJOR","METALKEY","METMNG","METSTAT","MISC","MNG","NRGKEY","QUOTED","OILKEY","POLIRISK","FIALL","RATESKEY","CREDITKEY","GLOBALMACR","FRX","PGM","NYMEX","EXC","REGIONFILT","BRNEWS","DIV","CACT","PALLADIUM"],"tickers":[],"tagr":["\n  currencies\n"],"kwl":["biz_goldman_q2","biz_accenture","biz_ibm","biz_testing123","biz_exxonmobil","biz_ishares","biz_hsbc","biz_cboe","biz_ubsbannedlist","biz_ArthurJGallagher","biz_nationwide","biz_bp_keywords","biz_capitalone","biz_wellsfargosept","biz_pnc","biz_googlelist","biz_googlelisttwo","biz_technologykeywords","biz_citi","biz_vices","biz_autocompetitors","biz_trowe"],"position":"leaderboard","positionIncrement":1,"url":"/news/articles/2016-12-14/gold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger"},
-                    "containerId": "leaderboard-iDpyoLD"
-                }
-            </script>
-            <div class="leaderboard-ad-dummy"></div>
-        </div>
+      <p class="published">
+        Posted 
+    <span class="timestamp">
+      November 29, 2016 20:03:54
+    </span>
+      </p>
+    
+  
+
+<div class="attached-content">
+      <div class="inline-content photo left">
+    <a href="/news/2016-11-29/najib-razak/8076820">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/7360622-3x2-340x227.jpg" alt="Najib Razak walking towards his car after attending a parliament session in Kuala Lumpur." title="Najib Razak" width="340" height="227"/>
+</a><a href="/news/2016-11-29/najib-razak/8076820" class="inline-caption"><strong>
+        Photo:</strong>
+       Najib Razak says Muslims have a responsibility to push for the adoption of the Islamic penal code <span class="source">(AFP: Mohd Rasfan, file)</span>
+      </a></div>
+<div class="inline-content story left">
+    <a href="/news/2016-11-19/thousands-march-in-kuala-lumpur-calling-for-pm-najib-to-resign/8040056"><strong>Related Story:</strong>
+       Thousands hold anti-government &#039;Bersih&#039; protests in Malaysia</a></div>
+<div class="inline-content story left">
+    <a href="/news/2016-11-14/malaysian-opposition-lawmaker-jailed-for-exposing-1mdb-audit/8024812"><strong>Related Story:</strong>
+       Malaysian opposition politician jailed for exposing 1MDB audit report</a></div>
+<div class="inline-content story left">
+    <a href="/news/2016-05-24/singapore-kicks-out-swiss-bank-linked-to-malaysias-1mdb-scandal/7441948"><strong>Related Story:</strong>
+       Swiss approve dissolution of scandal-hit bank</a></div>
+<div class="inline-content map left">
+      <div class="story-map"></div>
+      <a class="inline-caption" href="http://maps.google.com/?q=2.5,112.5(Malaysia)&amp;z=5">
+        <strong>Map: </strong>
+        Malaysia</a>
     </div>
-    
-                
-        <div class="truste">
-            <div id="consent_blackbar"></div>
-        </div>
-    
-                <div id="bb-that">
-    <nav class="bb-that">
-        <header class="bb-that-header bb-that--container">
-        <a class="bb-that-header__link bb-that-header--sitemap-trigger" href="http://www.bloomberg.com/company/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg the Company &amp; Its Products</a><a class="bb-that-header__link" href="https://bba.bloomberg.net/?utm_source=bloomberg-menu&amp;utm_medium=bcom"><span>Bloomberg Anywhere Remote Login</span><span>Bloomberg Anywhere Login</span></a><a class="bb-that-header__link" href="http://www.bloomberg.com/professional/bcom-demo/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-CORE-bbgmenu-demo">Bloomberg Terminal Demo Request</a>    </header>
-        <div class="bb-that__sitemap bb-that--container">
-    <div class="bb-that__close"></div>
+  </div>
+  <p>Malaysia's Prime Minister Najib Razak has expressed <a href="/news/2016-05-28/outrage-in-malaysia-as-government-backs-islamic-law/7456322" target="_self" title="">support for strict Islamic laws</a> as he seeks to consolidate support of ethnic Malay Muslims at a party meeting this week, as frustration over graft and the economy cloud his prospects for the next election. </p><p>Mr Najib has battled calls to resign over the past 18 months as a <a href="/news/2016-03-29/najib-razak-bank-accounts-triggered-money-laundering-alert/7280244" target="_self" title="">scandal at his pet project, 1Malaysia Development Berhad (1MDB),</a> drew the anger of the public, opponents and members of his own United Malay National Organisation (UMNO) ruling party. </p><p>A new opposition party, led by former prime minister Mahathir Mohamad and former deputy prime minister Muhyiddin Yassin — who Mr Najib sacked for questioning his handling of 1MDB — is  threatening to split the majority Malay vote that has given UMNO victory in every election since independence in 1957. </p><p>Ahead of the annual party meeting, Mr Najib said it was the responsibility of Muslims to support a plan by the rival Pan-Malaysian Islamic Party to push for the adoption of 'hudud', the Islamic penal code, that sets out punishments like amputation and stoning.</p><p>"We want to develop Islam," Mr Najib said in an interview with a pro-government broadcaster. </p><blockquote class="quote--pullquote"><p>"Non-Muslims must understand that this is not about 'hudud', but about empowering the sharia courts."</p></blockquote><p>With rising prices and poor economic prospects for next year, Mr Najib is expected to bank on ethnic and religious sentiment to woo majority Malay voters. </p><p>An election is due by 2018. </p><h2>UMNO meeting to focus on Malay, Islamic interests</h2><p>Mr Najib said his policy speech at this year's UMNO meeting would focus on the interests of Malays and Islam. </p><p>"This is my speech as UMNO President, so my main audience are UMNO members and the Malays and 'bumiputera'," he said, using a term that roughly translates as 'sons of the soil', and includes Malays but not members of the ethnic Chinese and Indian minorities.</p><blockquote class="quote--pullquote"><p>"It doesn't mean we don't care at all about the others, but this is an UMNO assembly." </p></blockquote><p>Mr Najib faced the biggest challenge to his leadership last year, after reports that hundreds of millions of dollars was misappropriated from state fund 1MDB, which he founded.</p><p>He acted swiftly to preserve his position, sacking critics in his administration <a href="/news/2016-01-26/corruption-probe-clears-malaysian-prime-minister-najib-razak/7115712" target="_self" title="">and closing a graft investigation.</a></p><p>Nevertheless, the scandal clouds prospects for an early election that Mr Najib could call to cement his position, with multiple international investigations going on and a suit related to <a href="/news/2016-09-02/minister-names-malaysian-pm-as-key-scandal-figure/7809500" target="_self" title="">the case filed by the US Department of Justice</a>.</p><p><strong>Reuters</strong></p>
 
-        <ul class="bb-that__sitemap-sections bb-that--visible-md bb-that--visible-lg">
-                    <li class="bb-that__col bb-that__col--md">
-            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Bloomberg</h2>
-    <div class="bb-that-category__content"><p class="bb-that-category__text">Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world.</p></div></section>            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Customer Support</h2>
-    <div class="bb-that-category__content"><p class="bb-that-category__text">Americas<br />
-+1 212 318 2000</p><p class="bb-that-category__text">Europe, Middle East, &amp; Africa<br />
-+44 20 7330 7500</p><p class="bb-that-category__text">Asia Pacific<br />
-+65 6212 1000</p></div></section>    </li>
-                    <li class="bb-that__col bb-that__col--md">
-            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Company</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/careers/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Careers</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/diversity-inclusion/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Diversity &#038; Inclusion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/bcause/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Sustainability</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.techatbloomberg.com?utm_source=bloomberg-menu&amp;utm_medium=bcom">Technology</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/bloomberg-facts/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Facts &#038; Spaces</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/philanthropy/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Philanthropy &#038; Engagement</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/london/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg London</a></li></ul></section>            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Communications</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/announcements/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Announcements</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/press-contacts/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Contacts</a></li></ul></section>            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Follow Us</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a href="http://www.facebook.com/Bloomberglp" class="bb-that-category__social-link bb-that--icon-facebook" target="_blank">Facebook</a></li><li class="bb-that-category__item"><a href="https://twitter.com/bloomberg" class="bb-that-category__social-link bb-that--icon-twitter" target="_blank">Twitter</a></li><li class="bb-that-category__item"><a href="https://www.linkedin.com/company/2494" class="bb-that-category__social-link bb-that--icon-linkedin" target="_blank">LinkedIn</a></li><li class="bb-that-category__item"><a href="https://www.instagram.com/bloomberg/" class="bb-that-category__social-link bb-that--icon-instagram" target="_blank">Instagram</a></li><li class="bb-that-category__item"><a href="https://vimeo.com/bloomberg" class="bb-that-category__social-link bb-that--icon-vimeo" target="_blank">Vimeo</a></li></ul></section>    </li>
-                    <li class="bb-that__col bb-that__col--md">
-            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Financial Products</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-CORE-bbgmenu">Bloomberg Terminal</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergtradebook.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-02-13-TBOOK-bbgmenu">Bloomberg Tradebook</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergbriefs.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Briefs</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergindices.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-05-13-Indices-bbgmenu">Bloomberg Indices</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergsef.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-08-13-SEF-bbgmenu">Bloomberg SEF</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bloomberginstitute.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Institute</a></li></ul></section>            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Bloomberg Customers</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bba.bloomberg.net/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Anywhere Remote Login</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/downloads/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Download Software</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&amp;utm_medium=bcom">Service Center</a></li></ul></section>    </li>
-                    <li class="bb-that__col bb-that__col--md">
-            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Enterprise Products</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/enterprise/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-09-13-ES-bbgmenu">Enterprise Solutions</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/trading-solutions/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-09-13-TS-bbgmenu">Trading Solutions</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/vault/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-09-13-ES-BVAULT-bbgmenu">Bloomberg Vault</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergpolarlake.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg PolarLake</a></li></ul></section>            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Industry Products</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bgov.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Government</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Law/BNA</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bol.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Big Law</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bnef.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg New Energy Finance</a></li></ul></section>    </li>
-                    <li class="bb-that__col bb-that__col--md">
-            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Media</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg.com</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/politics/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Politics</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergview.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg View</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/gadfly/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Gadfly</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/live?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Television</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/radio/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Radio</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/mobile/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Mobile Apps</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/news-bureaus/?utm_source=bloomberg-menu&amp;utm_medium=bcom">News Bureaus</a></li></ul></section>            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Media Services</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberglive.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Live Conferences</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/distribution?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Media Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergmedia.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Advertising</a></li></ul></section>    </li>
-            </ul>
 
-        <ul class="bb-that__sitemap-sections bb-that--visible-sm">
-                    <li class="bb-that__col bb-that__col--sm">
-            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Bloomberg</h2>
-    <div class="bb-that-category__content"><p class="bb-that-category__text">Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world.</p></div></section>            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Customer Support</h2>
-    <div class="bb-that-category__content"><p class="bb-that-category__text">Americas<br />
-+1 212 318 2000</p><p class="bb-that-category__text">Europe, Middle East, &amp; Africa<br />
-+44 20 7330 7500</p><p class="bb-that-category__text">Asia Pacific<br />
-+65 6212 1000</p></div></section>            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Communications</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/announcements/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Announcements</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/press-contacts/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Contacts</a></li></ul></section>            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Follow Us</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a href="http://www.facebook.com/Bloomberglp" class="bb-that-category__social-link bb-that--icon-facebook" target="_blank">Facebook</a></li><li class="bb-that-category__item"><a href="https://twitter.com/bloomberg" class="bb-that-category__social-link bb-that--icon-twitter" target="_blank">Twitter</a></li><li class="bb-that-category__item"><a href="https://www.linkedin.com/company/2494" class="bb-that-category__social-link bb-that--icon-linkedin" target="_blank">LinkedIn</a></li><li class="bb-that-category__item"><a href="https://www.instagram.com/bloomberg/" class="bb-that-category__social-link bb-that--icon-instagram" target="_blank">Instagram</a></li><li class="bb-that-category__item"><a href="https://vimeo.com/bloomberg" class="bb-that-category__social-link bb-that--icon-vimeo" target="_blank">Vimeo</a></li></ul></section>    </li>
-                    <li class="bb-that__col bb-that__col--sm">
-            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Company</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/careers/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Careers</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/diversity-inclusion/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Diversity &#038; Inclusion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/philanthropy/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Philanthropy &#038; Engagement</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/bcause/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Sustainability</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.techatbloomberg.com?utm_source=bloomberg-menu&amp;utm_medium=bcom">Technology</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/bloomberg-facts/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Facts &#038; Spaces</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/london/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg London</a></li></ul></section>            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Media</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg.com</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/politics/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Politics</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergview.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg View</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/gadfly/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Gadfly</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/live?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Television</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/radio/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Radio</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/mobile/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Mobile Apps</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/news-bureaus/?utm_source=bloomberg-menu&amp;utm_medium=bcom">News Bureaus</a></li></ul></section>            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Media Services</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergmedia.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Advertising</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/distribution?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Media Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberglive.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Live Conferences</a></li></ul></section>    </li>
-                    <li class="bb-that__col bb-that__col--sm">
-            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Financial Products</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-CORE-bbgmenu">Bloomberg Terminal</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergtradebook.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-02-13-TBOOK-bbgmenu">Bloomberg Tradebook</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergbriefs.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Briefs</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergindices.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-05-13-Indices-bbgmenu">Bloomberg Indices</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergsef.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-08-13-SEF-bbgmenu">Bloomberg SEF</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bloomberginstitute.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Institute</a></li></ul></section>            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Enterprise Products</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/enterprise/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-09-13-ES-bbgmenu">Enterprise Solutions</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/trading-solutions/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-09-13-TS-bbgmenu">Trading Solutions</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/vault/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-09-13-ES-BVAULT-bbgmenu">Bloomberg Vault</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergpolarlake.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg PolarLake</a></li></ul></section>            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Industry Products</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bgov.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Government</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Law/BNA</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bol.bna.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Big Law</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bnef.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg New Energy Finance</a></li></ul></section>            <section class="bb-that-category">
-    <h2 class="bb-that-category__title">Bloomberg Customers</h2>
-    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bba.bloomberg.net/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Anywhere Remote Login</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/downloads/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Download Software</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&amp;utm_medium=bcom">Service Center</a></li></ul></section>    </li>
-            </ul>
-</div>    </nav>
+<p class="topics">
+	<strong>Topics:</strong>
+	
+	<a href="/news/topic/law-crime-and-justice">law-crime-and-justice</a>,
+
+
+	
+	<a href="/news/topic/world-politics">world-politics</a>,
+
+
+	
+	<a href="/news/topic/corruption">corruption</a>,
+
+
+	
+	<a href="/news/topic/malaysia">malaysia</a>,
+
+
+	
+	<a href="/news/topic/asia">asia</a>
+	
+</p>
+
+<!--noindex-->
+  </div>
+<!-- B modules - end -->
+    </div>
+    <div class="c25r sidebar">
+    <!-- Sidebar modules - start -->
+    <div class="section localised-top-stories">
+        <div class="inner">
+          <h2>Top Stories</h2>
+          
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/deficit-to-increase-by-$10-billion-myefo-shows/8131334">Deficit to increase by $10 billion, MYEFO shows</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/aaa-credit-rating-survives-for-now-after-myefo/8132996">Australia scrapes a pass from ratings agencies in latest budget test</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/australia-seals-first-test-win-over-pakistan-by-39-runs/8132534"><em>SPORT</em>
+      Australia seals nail-biting win over Pakistan by 39 runs</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/pauline-hanson-vows-one-nation-will-survive/8133316">Pauline Hanson vows One Nation will survive after Culleton&#039;s resignation</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/lion-nicole-kidman-sue-brierley-bond-in-film-of-sons-story/8132862">The Hobart mum who wanted to be played by Nicole Kidman</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/guildford-streets-in-police-lockdown-and-girl-critical/8133250">Man arrested after 2yo girl found &#039;unresponsive&#039; in vehicle</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/bowe-maddigan-sentence-murder-school-girl-zoe-buttigieg/8131348">Man jailed for 28 years for &#039;gratuitous&#039; murder of 11yo girl</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/tiger-snake-found-in-christmas-tree-decorations-frankston/8131764">Fake tree, real snake: Tinsel hides nasty surprise</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/india's-plan-to-step-away-from-coal-casts-doubt-on-adani-mine/8131240">India&#039;s plan to step away from coal casts doubt on Adani mine</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/deaf-community-hails-school-rollout-of-auslan-curriculum/8132474">Deaf community hails rollout of first ever Auslan curriculum</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/high-prices-of-beer-at-sports-stadiums-revealed/8132476"><em>SPORT</em>
+      Pour form: Counting the cost of beer at the game</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/rosie-batty-calls-on-peter-dutton-to-let-chamari-liyanage-stay/8132396">Batty calls on Dutton to allow woman who killed abusive husband to stay in Australia</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/zsa-zsa-gabor-dies-aged-99/8131524">Hollywood socialite Zsa Zsa Gabor dies aged 99</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/aleppo:-france-russia-reach-compromise-as-evacuations-uncertain/8132030">France, Russia reach UN compromise as Aleppo evacuations resume</a>
+
+</li>
+
+        
+      
+      
+    
+  </ul>
 </div>
-                
-        <script id="nav-data" type="application/ld+json">
-            {
-                "headline": "Gold Bounces From 10-Month Low Before Fed Reserve Rate Decision",
-                "shortUrl": "http://bloom.bg/2gY3uQZ",
-                "twitterText": "Gold Bounces From 10-Month Low Before Fed Reserve Rate Decision",
-                "twitterHandle": "markets"
-            }
-        </script>
-        <div class="bb-nav-placeholder">
-            <div class="bb-nav-root"> <nav is="bb-nav" class="bb-nav" id="bb-nav" data-nav-version="1.30.1" data-theme="markets" data-persist-for="content" data-mode="index" data-reg-env="production" data-progress="0" data-headline="" data-base="https://nav.bloomberg.com" data-tracker-category="nav" data-tracker-events="click" data-tracker-label="header" data-site="global" data-persist-for="none" > <div class="bb-nav__container"> <div class="bb-nav__content"> <h1 class="bb-nav-logo" is="bb-nav-logo"> <div class="bb-nav-logo__rubix" data-tracker-label="bomb.open.rubix_button" data-tracker-action="click"></div> <div class="bb-nav-logo__menu" data-tracker-label="bomb.open.menu_button" data-tracker-action="click"> <div class="bb-nav-logo__menu-link">MENU</div> </div> <a href="http://www.bloomberg.com" class="bb-nav-logo__link" data-tracker-label="logo" data-tracker-action="click"> </a> <div class="bb-nav-logo__arrow"></div> </h1><div class="bb-nav-content-logo" is="bb-nav-content-logo"> <h1 class="bb-nav-content-logo__headline" data-tracker-label="content"> <a href="http://www.bloomberg.com" class="bb-nav-content-logo__site" data-tracker-label="logo" data-tracker-action="click"></a> </h1> <div class="bb-nav-content-logo__down-arrow" data-tracker-label="expand" data-tracker-action="click"></div> </div><h2 class="bb-nav-headline"></h2><bb-experience-select class="bb-nav-experience-select"></bb-experience-select><div class="bb-nav-categories"> <ul class="bb-nav-categories__container"> <li class="bb-nav-categories__home"> <a href="http://www.bloomberg.com" class="bb-nav-categories__home-link"> Homepage </a> </li> <li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="markets" data-vertical="markets" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/markets" class="bb-nav-categories__link" data-category-path="/markets" data-category-vertical="markets" target="_self" data-tracker-action="click">Markets</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_stocks" href="http://www.bloomberg.com/markets/stocks" data-tracker-label="stocks" data-tracker-action="click"> Stocks </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_currencies" href="http://www.bloomberg.com/markets/currencies" data-tracker-label="currencies" data-tracker-action="click"> Currencies </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_commodities" href="http://www.bloomberg.com/markets/commodities" data-tracker-label="commodities" data-tracker-action="click"> Commodities </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_rates_bonds" href="http://www.bloomberg.com/markets/rates-bonds" data-tracker-label="rates_plus_bonds" data-tracker-action="click"> Rates + Bonds </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_economics" href="http://www.bloomberg.com/markets/economics" data-tracker-label="economics" data-tracker-action="click"> Economics </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_magazine" href="http://www.bloomberg.com/markets/markets-magazine" data-tracker-label="magazine" data-tracker-action="click"> Magazine </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_benchmark" href="http://www.bloomberg.com/markets/benchmark" data-tracker-label="benchmark" data-tracker-action="click"> Benchmark </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_watchlist" href="http://www.bloomberg.com/markets/watchlist" data-tracker-label="watchlist" data-tracker-action="click"> Watchlist </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_economic_calendar" href="http://www.bloomberg.com/markets/economic-calendar" data-tracker-label="economic_calendar" data-tracker-action="click"> Economic Calendar </a> </li> <li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="marketsnav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}' ></bb-ad></li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="technology" data-vertical="technology" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/technology" class="bb-nav-categories__link" data-category-path="/technology" data-category-vertical="technology" target="_self" data-tracker-action="click">Tech</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_us" href="http://www.bloomberg.com/topics/silicon-valley" data-tracker-label="us" data-tracker-action="click"> U.S. </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_global" href="http://www.bloomberg.com/topics/global-tech" data-tracker-label="global" data-tracker-action="click"> Global </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_start_ups" href="http://www.bloomberg.com/topics/startups" data-tracker-label="startups" data-tracker-action="click"> Startups </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_cybersecurity" href="http://www.bloomberg.com/topics/cybersecurity" data-tracker-label="cybersecurity" data-tracker-action="click"> Cybersecurity </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_gaming" href="http://www.bloomberg.com/topics/entertainment" data-tracker-label="digital_media" data-tracker-action="click"> Digital Media </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_bloomberg_tv" href="http://www.bloomberg.com/shows/bloomberg-technology" data-tracker-label="bloomberg_technology_tv" data-tracker-action="click"> Bloomberg Technology TV </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_hello_world" href="http://www.bloomberg.com/features/2016-hello-world/" data-tracker-label="hello_world" data-tracker-action="click"> Hello World </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_studio_1" href="http://www.bloomberg.com/shows/studio-1" data-tracker-label="studio_10" data-tracker-action="click"> Studio 1.0 </a> </li> <li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="technav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}' ></bb-ad></li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="pursuits" data-vertical="pursuits" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/pursuits" class="bb-nav-categories__link" data-category-path="/pursuits" data-category-vertical="pursuits" target="_self" data-tracker-action="click">Pursuits</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_autos" href="http://www.bloomberg.com/pursuits/cars-bikes" data-tracker-label="cars_and_bikes" data-tracker-action="click"> Cars & Bikes </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_style" href="http://www.bloomberg.com/pursuits/style-grooming" data-tracker-label="style_and_grooming" data-tracker-action="click"> Style & Grooming </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_scene" href="http://www.bloomberg.com/pursuits/spend" data-tracker-label="spend" data-tracker-action="click"> Spend </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_timepieces" href="http://www.bloomberg.com/pursuits/watches-gadgets" data-tracker-label="watches_and_gadgets" data-tracker-action="click"> Watches & Gadgets </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_food" href="http://www.bloomberg.com/pursuits/food-drinks" data-tracker-label="food_and_drinks" data-tracker-action="click"> Food & Drinks </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_travel" href="http://www.bloomberg.com/pursuits/travel" data-tracker-label="travel" data-tracker-action="click"> Travel </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_property" href="http://www.bloomberg.com/pursuits/real-estate" data-tracker-label="real_estate" data-tracker-action="click"> Real Estate </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_art" href="http://www.bloomberg.com/pursuits/art-design" data-tracker-label="art_and_design" data-tracker-action="click"> Art & Design </a> </li> <li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="pursuitsnav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}' ></bb-ad></li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="politics" data-vertical="politics" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/politics" class="bb-nav-categories__link" data-category-path="/politics" data-category-vertical="politics" target="_self" data-tracker-action="click">Politics</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/politics_with_all_due_respect" href="http://www.bloomberg.com/politics/topics/wadr-full-episode" data-tracker-label="with_all_due_respect" data-tracker-action="click"> With All Due Respect </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/politics/graphics/2016-poll-decoder/" data-tracker-label="poll_decoder" data-tracker-action="click"> Poll Decoder </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/politics_culture_caucus_podcast" href="http://www.bloomberg.com/podcasts/culture_caucus" data-tracker-label="culture_caucus_podcast" data-tracker-action="click"> Culture Caucus Podcast </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/politics_masters_in_politics_podcast" href="http://www.bloomberg.com/podcasts/masters_in_politics" data-tracker-label="masters_in_politics_podcast" data-tracker-action="click"> Masters In Politics Podcast </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/politics/graphics/2016-presidential-campaign-tv-ads/" data-tracker-label="ad_tracker" data-tracker-action="click"> Ad Tracker </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/news/special-reports/battlegrounds-2016" data-tracker-label="battlegrounds_2016" data-tracker-action="click"> Battlegrounds 2016 </a> </li> <li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="politicsnav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}' ></bb-ad></li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="opinion" data-vertical="opinion" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <span class="bb-nav-categories__link" data-category-path="/opinion" data-category-vertical="opinion" target="_self" data-tracker-action="click">Opinion</span> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/opinion_view" href="http://www.bloomberg.com/view/" data-tracker-label="view" data-tracker-action="click"> View </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/opinion_gadfly" href="https://www.bloomberg.com/gadfly/" data-tracker-label="gadfly" data-tracker-action="click"> Gadfly </a> </li> <li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="opinionnav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}' ></bb-ad></li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="businessweek" data-vertical="businessweek" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/businessweek" class="bb-nav-categories__link" data-category-path="/businessweek" data-category-vertical="businessweek" target="_self" data-tracker-action="click">Businessweek</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_subscribe" href="https://subscribe.businessweek.com/servlet/OrdersGateway?cds_mag_code=BWK&cds_page_id=200920" data-tracker-label="subscribe" data-tracker-action="click"> Subscribe </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_cover_stories" href="http://www.bloomberg.com/topics/cover-story" data-tracker-label="cover_stories" data-tracker-action="click"> Cover Stories </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_opening_remarks" href="http://www.bloomberg.com/topics/opening-remarks" data-tracker-label="opening_remarks" data-tracker-action="click"> Opening Remarks </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_etc" href="http://www.bloomberg.com/topics/etc" data-tracker-label="etc" data-tracker-action="click"> Etc </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_features" href="http://www.bloomberg.com/topics/features" data-tracker-label="features" data-tracker-action="click"> Features </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_85th_anniversary_issue" href="http://www.businessweek.com/features/85ideas/" data-tracker-label="85th_anniversary_issue" data-tracker-action="click"> 85th Anniversary Issue </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_behind_the_cover" href="http://www.bloomberg.com/topics/behind-the-cover" data-tracker-label="behind_the_cover" data-tracker-action="click"> Behind The Cover </a> </li> <li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="bweeknav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}' ></bb-ad></li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="footer" data-vertical="footer" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <span class="bb-nav-categories__link" data-category-path="/footer" data-category-vertical="footer" target="_self" data-tracker-action="click">More</span> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/news/science-energy" data-tracker-label="science_plus_energy" data-tracker-action="click"> Science + Energy </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/graphics" data-tracker-label="graphics" data-tracker-action="click"> Graphics </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/game-plan" data-tracker-label="game_plan" data-tracker-action="click"> Game Plan </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/small-business" data-tracker-label="small_business" data-tracker-action="click"> Small Business </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/personal-finance" data-tracker-label="personal_finance" data-tracker-action="click"> Personal Finance </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/segments/inspire-go" data-tracker-label="inspire_go" data-tracker-action="click"> Inspire GO </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/features/2016-peer-to-peer/" data-tracker-label="the_david_rubenstein_show" data-tracker-action="click"> The David Rubenstein Show </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/sponsor/partnerships/" data-tracker-label="sponsored_content" data-tracker-action="click"> Sponsored Content </a> </li> <li class="bb-nav-submenu__ad"><bb-ad ad-code="bloomberg/nav" position="footernav1" target="bloomberg/nav" dimensions='{"tablet":[[5,14]],"small_desktop":[[5,14]],"large_desktop":[[5,14]]}' ></bb-ad></li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="bloomberg" data-vertical="bloomberg" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <span class="bb-nav-categories__link" data-category-path="/bloomberg" data-category-vertical="bloomberg" target="_self" data-tracker-action="click">Bloomberg</span> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="http://www.bloomberg.com/company/" data-tracker-label="about_the_company" data-tracker-action="click"> About The Company </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li> <li class="bb-nav-categories__category bb-nav-categories__sign-in"> <a id="bb-nav-dropdown-sign-in" class="bb-nav-categories__sign-in-link" href="https://login.bloomberg.com/" data-tracker-label="sign_in" data-tracker-action="click"> Sign In </a> </li> <li class="bb-nav-categories__category bb-nav-categories__experience"> <bb-experience-select class="bb-nav-mobile-experience-select"></bb-experience-select> </li> </ul> </div><div class="bb-nav-touts" is="bb-nav-touts" data-tracker-label="tout"> <a target="_self" id="bb-nav-sign-in" class="bb-nav-touts__link" href="https://login.bloomberg.com/" data-tracker-label="sign_in" data-tracker-action="click">Sign In</a> <a target="_blank" class="bb-nav-touts__subscribe-link" href="http://businessweekmag.com/navbartextlink" data-vertical-target="businessweek" data-tracker-label="subscribe" data-tracker-action="click">Subscribe</a> </div><div class="bb-nav-social-container"> <bb-social class="bb-nav-social"></bb-social> </div><div class="bb-nav-search" is="bb-nav-search" data-tracker-label="search"> <form class="bb-nav-search__form" action="/search" method="get" autocomplete="false"> <input type="text" class="bb-nav-search__input" placeholder="What are you searching for?" name="query" autocomplete="off"/> </form> <div class="bb-search-drawer" tabindex="0"> <div class="bb-search-drawer__content"> <bb-quick-links></bb-quick-links> <bb-search-suggestions></bb-search-suggestions> </div> </div> </div> <span class="bb-nav-search__icon" data-tracker-label="search.icon" data-tracker-action="click"></span> </div> </div> <div class="bb-progress"> <div class="bb-progress__status"></div> </div> </nav> </div>
-        </div>
+      </div>
+    <div class="section graphic">
+  <a href="/news/us-election-2016/">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
     
-                <div class='breaking-news-placeholder'></div>
-                <main class="transporter-container">
-                    <div class="transporter-item current">
-                        
-            <article data-story-id="OI5JJQ6K50YC01" data-theme="markets" itemscope itemtype="http://schema.org/Article">
-                <script id="article-info-OI5JJQ6K50YC01" type="application/json">{"id":"OI5JJQ6K50YC01","contentType":"article","tags":{"editorialTopics":[{"id":"video-stories","name":"Video Stories","score":3,"slug":"video-stories","type":"topic"}],"people":[{"id":"1442491","slug":"ABYCu2nT1cg/janet-l-yellen","fullName":"Janet L Yellen","score":0.8724061810154525},{"id":"1252249","slug":"ABMbmW05x-Y/donald-j-trump","fullName":"Donald John Trump","score":1.2649006622516556}],"niCodes":[{"id":"AFRTOP"},{"id":"ALLTOP"},{"id":"ASBNX"},{"id":"BGOVALL"},{"id":"BGOVFINAN"},{"id":"BIZNEWS"},{"id":"BNALL"},{"id":"BNCOPY"},{"id":"BNCOPY2"},{"id":"BNSTAFF"},{"id":"BNTEAMS"},{"id":"BUSINESS"},{"id":"CATOP"},{"id":"CATOPZ3"},{"id":"CECO"},{"id":"CEN"},{"id":"CMD"},{"id":"CMDMARKET"},{"id":"CMDTOP"},{"id":"CMDTOPZ3"},{"id":"CMDX"},{"id":"DUPLICATE"},{"id":"ECO"},{"id":"EUBNX"},{"id":"EUCMDMKT"},{"id":"EUROPEME"},{"id":"EUROSTORY"},{"id":"FED"},{"id":"FINNEWS"},{"id":"FRXTOP"},{"id":"G7ECOS"},{"id":"GLD"},{"id":"GLDMARKET"},{"id":"GOV"},{"id":"GOVMISC"},{"id":"HLDUPLICAT"},{"id":"HLNOVELTY0"},{"id":"JSX"},{"id":"LATAMCMD"},{"id":"MARKETS"},{"id":"MET"},{"id":"METAMTEAM"},{"id":"METASTEAM"},{"id":"METEUTEAM"},{"id":"METMARKET"},{"id":"METTOP"},{"id":"METTOPZ2"},{"id":"MSCINAMER"},{"id":"MSCIWORLD"},{"id":"NONFERR"},{"id":"NORTHAM"},{"id":"NOVELTY0"},{"id":"NYX"},{"id":"ONWEB"},{"id":"PCS"},{"id":"PCSMARKET"},{"id":"POLNEWS"},{"id":"SSX"},{"id":"SWTOP"},{"id":"SWTOPZ3"},{"id":"TOP"},{"id":"TORX"},{"id":"UPDATE"},{"id":"US"},{"id":"USBNX"},{"id":"USECO"},{"id":"USGOV"},{"id":"USSTORY"},{"id":"USTOP"},{"id":"USTOPZ2"},{"id":"WEBCMMDTZD"},{"id":"ZATOP"},{"id":"ZATOPZ2"},{"id":"AFRICA"},{"id":"AGRKEY"},{"id":"AME"},{"id":"ATTACHMENT"},{"id":"BASIC"},{"id":"BBPROFILE"},{"id":"BGOVBILLGO"},{"id":"BGOVCODES"},{"id":"BON"},{"id":"BONDWIRES"},{"id":"WORLD"},{"id":"WEPFEX1"},{"id":"CBRATES"},{"id":"CMDGLOMAC"},{"id":"CMDKEY"},{"id":"COMSTAT"},{"id":"COS"},{"id":"WEBELIG"},{"id":"DC"},{"id":"DEBTKEY"},{"id":"DEVECO"},{"id":"TIMENI"},{"id":"EM"},{"id":"EMEAREGION"},{"id":"EQUITYKEY"},{"id":"TIMECO"},{"id":"PHOTO"},{"id":"FIASST"},{"id":"SRCRANK1"},{"id":"FXKEY"},{"id":"G10MEMB"},{"id":"G7MEMB"},{"id":"SPREGIONS"},{"id":"GLOMACBB"},{"id":"INDUSTRIES"},{"id":"INTERNAL"},{"id":"LEAST"},{"id":"MAJOR"},{"id":"METALKEY"},{"id":"METMNG"},{"id":"METSTAT"},{"id":"MISC"},{"id":"MNG"},{"id":"NRGKEY"},{"id":"QUOTED"},{"id":"OILKEY"},{"id":"POLIRISK"},{"id":"FIALL"},{"id":"RATESKEY"},{"id":"CREDITKEY"},{"id":"GLOBALMACR"},{"id":"FRX"},{"id":"PGM"},{"id":"NYMEX"},{"id":"EXC"},{"id":"REGIONFILT"},{"id":"BRNEWS"},{"id":"DIV"},{"id":"CACT"},{"id":"PALLADIUM"}],"tickers":[{"id":"GLE:FP","longName":"Societe Generale SA","score":0.4123620309050773}],"indexes":[{"id":"INDU:IND","longName":"Dow Jones Industrial Average","score":0.2772626931567329},{"id":"SPX:IND","longName":"S&P 500 Index","score":0.28520971302428255},{"id":"BCOM:IND","longName":"Bloomberg Commodity Index","score":0.2988962472406181}],"labels":[],"topics":[{"id":"currencies","name":"Currencies","score":0.15805739514348785,"slug":"currencies"},{"id":"raw-materials","name":"Raw Materials","score":0.30816777041942606,"slug":"raw-materials"},{"id":"monetary-policy","name":"Monetary Policy","score":0.4631346578366446,"slug":"monetary-policy"},{"id":"new-york","name":"New York","score":0.7240618101545254,"slug":"new-york"},{"id":"interest-rates","name":"Interest Rates","score":0.9200883002207505,"slug":"interest-rates"},{"id":"federal-reserve","name":"Federal Reserve","score":0.9514348785871964,"slug":"federal-reserve"},{"id":"gold","name":"Gold","score":7.247682119205297,"slug":"gold","type":"topic"}]}}</script>
-                
-    <div class="lede-text-only lede">
-        <div class="lede-text-only__background">
-            <div class="background-image"></div>
-            <div class="background-dots"></div>
-            <div class="background-fade"></div>
-        </div>
-        <div class="lede-text-only__container">
-            <div class="lede-text-only__content">
-                
-                <h1 class="lede-text-only__hed"><span class="lede-text-only__highlight">Gold Bounces From 10-Month Low Before Fed Reserve Rate Decision</span></h1>
-                
-                <address class="lede-text-only__byline">
-                    by <div class="author">Luzi-Ann Javier
-        <div class="author__modal">
-            <a class="author__modal-social" data-feed="twitter" href="https://www.twitter.com/luzi_ann" target="_blank">@luzi_ann</a>
-            
-            <a class="author__modal-bio" href="https://www.bloomberg.com/authors/AOUHWiHQ4gM/luziann-javier" rel="author">More stories by Luzi-Ann Javier</a>
-        </div>
-    </div> and <div class="author">Kevin Crowley
-        <div class="author__modal">
-            <a class="author__modal-social" data-feed="twitter" href="https://www.twitter.com/CrowleyKev" target="_blank">@CrowleyKev</a>
-            
-            <a class="author__modal-bio" href="https://www.bloomberg.com/authors/APYfUddvVaA/kevin-crowley" rel="author">More stories by Kevin Crowley</a>
-        </div>
-    </div>
-                </address>
-                <div class="lede-text-only__times">
-                    
-        <time id="time-0.7107382786925882" itemprop="datePublished" datetime="2016-12-14T01:45:26.584Z">
-            <noscript>December 13, 2016, 8:45 PM EST</noscript>
-            <script type="text/javascript">
-                (function(d) {
-                    var el = d.getElementById("time-0.7107382786925882");
-                    el.textContent = new Date("2016-12-14T01:45:26.584Z").toLocaleString([], {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"});
-                })(document);
-            </script>
-        </time>
     
-                    
-        <time id="time-0.4016427935566753" itemprop="dateModified" datetime="2016-12-14T18:48:07.223Z">
-            <noscript>December 14, 2016, 1:48 PM EST</noscript>
-            <script type="text/javascript">
-                (function(d) {
-                    var el = d.getElementById("time-0.4016427935566753");
-                    el.textContent = new Date("2016-12-14T18:48:07.223Z").toLocaleString([], {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"});
-                })(document);
-            </script>
-        </time>
     
-                </div>
-                
-            </div>
-        </div>
-    </div>
     
-                
-        <script type="text/javascript">
-            (function(p) { p && p.mark("LedeRendered"); })(window.performance);
-        </script>
     
-                <div class="content-well">
-                    <section class="main-column">
-                        
-    <ul class="abstract">
-        
-        <li class="abstract__item">
-            <div class="abstract__item-text">
-                U.S. seen boosting interest rates for the first time this year
-            </div>
-        </li>
-        <li class="abstract__item">
-            <div class="abstract__item-text">
-                Metal is worst commodity performer after sugar this quarter
-            </div>
-        </li>
-    </ul>
-                        
-    <div class="lede-media-video lede">
-        
-        <div class="video-player">
-            <div id="player-QRDSSIP" class="video-player__container" data-bmmrid="UGJvcxL8Q~iKimx4aBWZsg" data-shorturl="http://bloom.bg/2hKTlHi" data-autoplay="false"></div>
-            <div class="video-player__curtain">
-                <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2Ct3mm9IV_Y/v5/640x-1.jpg" srcset="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2Ct3mm9IV_Y/v5/640x-1.jpg 640w, https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2Ct3mm9IV_Y/v5/680x-1.jpg 680w, https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2Ct3mm9IV_Y/v5/840x-1.jpg 840w" sizes="(min-width:761px) and (max-width:1020px) 680px, (min-width:1021px) and (max-width:1280px) 640px, (min-width:1281px) 840px, 100vw">
-                <div class="video-player__overlay" data-playerid="player-QRDSSIP">
-                    <img class="video-player__play-icon" src="/javelin/public/images/play-076012604d.svg"/>
-                </div>
-            </div>
-        </div>
     
-        
-        <figcaption>
-            <div class="lede-media-video__caption"><p>Why Fed Rate Hike Is a Near Certainty</p>
+    
+    
+    
+  <img src="/cm/lb/7857456/thumbnail.jpg" alt="US election 2016" title="US election 2016" class="" width="220" />
+</a></div><div class="section graphic">
+  <a href="/news/abcnews-on-messenger/">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/7996774/thumbnail.png" alt="ABC News on Messenger" title="ABC News on Messenger" class="" width="220" />
+</a></div><div class="connect-with-abc section promo">
+<h2>Connect with ABC News</h2>
+<ul>
+    <li><a href="http://www.facebook.com/abcnews.au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388890/data/facebook-data.png" alt="ABC News on Facebook" title="ABC News on Facebook" width="30" height="30" />
+    </a></li>
+    <li><a href="http://www.twitter.com/abcnews" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388894/data/twitter-data.png" alt="ABC News on Twitter" title="ABC News on Twitter" width="32" height="27" />
+    </a></li>
+    <li><a href="http://www.youtube.com/newsonabc" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389052/data/youtube-data.png" alt="ABC News on YouTube" title="ABC News on YouTube" width="50" height="22" />
+    </a></li>
+    <li><a href="http://www.flickr.com/photos/abcnews_au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389060/data/flickr-data.png" alt="ABC News on Flickr" title="ABC News on Flickr" width="52" height="17" />
+    </a></li>
+    <li><a href="http://instagram.com/abcnews_au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389068/data/instagram-data.png" alt="ABC News on Instagram" title="ABC News on Instagram" width="32" height="31" />
+    </a></li>
+    <li><a href="http://www.vine.co/abcnews" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6546568/data/vine-data.png" alt="ABC News on Vine" title="ABC News on Vine" width="34" height="34" />
+    </a></li>
+</ul>
+<div class="clear"></div>
 </div>
-        </figcaption>
-    </div>
-                        
-        <div class="body-copy">
-            <p>Gold bounced from its lowest close in 10 months as traders hedge against any potential surprise from the U.S. Federal Reserve&#x2019;s meeting where policy makers are expected to increase interest rates for the first time this year.</p><p>Over the past month, the metal has tumbled as traders price in the odds of a rate hike, reducing the appeal of assets that don&#x2019;t pay yields or dividend. Donald Trump&#x2019;s election to the U.S. presidency also helped spur the sell-off as his transition team plans infrastructure spending of as much as $1 trillion, bolstering the growth outlook and spurring the rally in U.S. equities to records.</p><p>Gold futures rose 0.4 percent to settle at $1,163.70 an ounce at 1:36 p.m. on the Comex in New York. The price closed at $1,159 on Tuesday, the lowest since Feb. 5. Traders are betting there&#x2019;s a 100 percent chance that the Fed will boost borrowing costs Wednesday afternoon, according to Fed funds futures rate.</p>
-        <div id="box-ZxyPNkd" class="page-ad" data-position="mobile-box">
-            <script class="params" type="application/ld+json">
-                {
-                    "byzantium": {
-                        "contentId": "OI5JJQ6K50YC01"
-                    },
-                    "position": "box",
-                    "dimensions": {
-                        "mobile": [
-                            [300, 250],
-                            [1, 1]
-                        ]
-                    },
-                    "adCode": "markets/article",
-                    "url": "2016-12-14/gold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger",
-                    "type": "Mobile Body Box Ad",
-                    "positionIncrement": 1,
-                    "targeting": {"suid":"OI5JJQ6K50YC01","page":"articlejav","currentResource":"Story|OI5JJQ6K50YC01","ni":["AFRTOP","ALLTOP","ASBNX","BGOVALL","BGOVFINAN","BIZNEWS","BNALL","BNCOPY","BNCOPY2","BNSTAFF","BNTEAMS","BUSINESS","CATOP","CATOPZ3","CECO","CEN","CMD","CMDMARKET","CMDTOP","CMDTOPZ3","CMDX","DUPLICATE","ECO","EUBNX","EUCMDMKT","EUROPEME","EUROSTORY","FED","FINNEWS","FRXTOP","G7ECOS","GLD","GLDMARKET","GOV","GOVMISC","HLDUPLICAT","HLNOVELTY0","JSX","LATAMCMD","MARKETS","MET","METAMTEAM","METASTEAM","METEUTEAM","METMARKET","METTOP","METTOPZ2","MSCINAMER","MSCIWORLD","NONFERR","NORTHAM","NOVELTY0","NYX","ONWEB","PCS","PCSMARKET","POLNEWS","SSX","SWTOP","SWTOPZ3","TOP","TORX","UPDATE","US","USBNX","USECO","USGOV","USSTORY","USTOP","USTOPZ2","WEBCMMDTZD","ZATOP","ZATOPZ2","AFRICA","AGRKEY","AME","ATTACHMENT","BASIC","BBPROFILE","BGOVBILLGO","BGOVCODES","BON","BONDWIRES","WORLD","WEPFEX1","CBRATES","CMDGLOMAC","CMDKEY","COMSTAT","COS","WEBELIG","DC","DEBTKEY","DEVECO","TIMENI","EM","EMEAREGION","EQUITYKEY","TIMECO","PHOTO","FIASST","SRCRANK1","FXKEY","G10MEMB","G7MEMB","SPREGIONS","GLOMACBB","INDUSTRIES","INTERNAL","LEAST","MAJOR","METALKEY","METMNG","METSTAT","MISC","MNG","NRGKEY","QUOTED","OILKEY","POLIRISK","FIALL","RATESKEY","CREDITKEY","GLOBALMACR","FRX","PGM","NYMEX","EXC","REGIONFILT","BRNEWS","DIV","CACT","PALLADIUM"],"tickers":[],"tagr":["\n  currencies\n"],"kwl":["biz_goldman_q2","biz_accenture","biz_ibm","biz_testing123","biz_exxonmobil","biz_ishares","biz_hsbc","biz_cboe","biz_ubsbannedlist","biz_ArthurJGallagher","biz_nationwide","biz_bp_keywords","biz_capitalone","biz_wellsfargosept","biz_pnc","biz_googlelist","biz_googlelisttwo","biz_technologykeywords","biz_citi","biz_vices","biz_autocompetitors","biz_trowe"],"position":"box1","positionIncrement":1,"url":"/news/articles/2016-12-14/gold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger"},
-                    "containerId": "box-ZxyPNkd"
-                }
-            </script>
-            <div class="mobile-box-ad-dummy"></div>
-        </div>
-        <p>&#x201C;It&#x2019;s the typical Fed day uncertainty&#x201D; that&#x2019;s causing the slight uptick in prices, James McDonald, chief executive officer of Index Strategy Advisors, which manages $53 million, said in a telephone interview.</p><p>While investors will be watching for Fed Chair Janet Yellen&#x2019;s comments on future monetary policy, they shouldn&#x2019;t expect much given the uncertainty over Trump&#x2019;s policies,&#xA0;Robin Bhar, an analyst at Societe Generale SA, said by telephone. &#x201C;Yellen&#x2019;s hands are tied and will be until there&#x2019;s more policy certainty from the incoming president,&#x201D; he said.</p><figure data-type="image" data-id="307937254" data-image-type="chart" data-image-size="full" data-align="center" class="figure-expandable"><div class="image"><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaQhR58s166U/v2/-1x-1.png" srcset="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaQhR58s166U/v2/-1x-1.png 1200w" sizes="(min-width:761px) and (max-width:1020px) 680px, (min-width:1021px) and (max-width:1280px) 640px, (min-width:1281px) 740px, 100vw" data-native-src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaQhR58s166U/v2/-1x-1.png"></div></figure><p>Gold has been battered this quarter, with only sugar showing worse returns among the raw materials on the Bloomberg Commodity Index. The S&amp;P 500 Index and Dow Jones Industrial Average&#xA0;stock benchmarks have been trading at all-time highs this month, reducing demand for the precious metal.</p><p>A measure of the dollar against its overseas peers is near the highest in more than a decade, making gold dearer for those holding other currencies.&#xA0;Holdings of the metal in exchange-traded funds fell for a 23rd day to 1,830.6 metric tons on Tuesday, the lowest since June, data compiled by Bloomberg show. That&#x2019;s the longest slide since May 2013.</p><p>In other metals news:</p><ul><li>Silver futures also advanced on the Comex in New York, while platinum and palladium gained on the New York Mercantile Exchange. </li></ul>
-        <noscript>
-            <ol class="noscript-footnotes"></ol>
-        </noscript>
+<div class="section graphic">
+  <a href="/news/feeds/">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/4745996/thumbnail/news-podcasts-sidebar-graphic-promo-thumbnail.jpg" alt="News Podcasts" title="News Podcasts" class="" width="220" />
+</a></div><div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/tip-off/"
+    >
+  
+
+  
+    
+        <span>Got a news tip?</span>
+    
+    
+  
+
+  </a>
+</h2><p>If you have inside knowledge of a topic in the news, <a href="/news/contact/tip-off/" target="_self" title="">contact the ABC</a>.</p></div>
+  </div>
+<div class="related">
+<div class="newsmail-signup card">
+<h2>News in your inbox</h2>
+<span class="spiel">Top headlines, analysis, breaking&nbsp;alerts</span>
+
+<div class="form main">
+</div>
+<a href="/news/alerts/subscribe/">More info</a>
+</div>
+</div>
+<!-- Sidebar modules - end -->
+  </div>
+</div>
+</div><!-- C modules - start -->
+  <div class="page section featured-scroller featured-scroller-4 dark">
+<div class="section">
+  <h2>Features</h2>
+  </div>
+<div class="inner">
+  <ol class="subcolumns">
+    <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2016-12-19/myefo-shows-these-aren't-ordinary-times:-verrender/8132424" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/7375156-16x9-220x124.jpg" alt="Scott Morrison speaks." title="Scott Morrison" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  MYEFO: It&#039;s a start</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p class="title">
+        By business editor <a href="/news/ian-verrender/5261264" target="_self" title="">Ian Verrender</a></p>
+		<p>Not all Scott Morrison's Christmases have come at once — but at least it's a start, writes Ian Verrender.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2016-12-19/should-we-care-if-australia's-credit-rating-is-downgraded/8131260" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/6757314-16x9-220x124.jpg" alt="A ratings downgrade could make it more expensive for banks to borrow foreign money" title="The four big banks" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Credit ratings explained</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>The ABC's business editor says Australia's coveted AAA rating is doomed. If you're not sure why that would matter, read on.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/triplej/programs/hack/instagram-billboards-study/8132736" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/8133400-16x9-220x124.jpg" alt="Kendall Jenner lying down with her hair styled in the shape of mini hearts" title="Kendall Jenner&#039;s heart hairstyle" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Body image and social media</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>Social media comparisons better reflect the types of comparisons young women make every day, research shows.</p>
+	 </div>
+    </li>
+         <li class="c25r">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2016-12-19/cricket-pregnancy-clause-battle/8131736" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/8114596-16x9-220x124.jpg" alt="Ellyse Perry plays a drive for the Sixers" title="Ellyse Perry plays a drive for the Sixers" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Cricket&#039;s pregnancy clause wars</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p class="title">
+        By <a href="/news/mary-gearin/4181654" target="_self" title="">Mary Gearin</a></p>
+		<p>Just when cricket's authorities and players thought it safe to go back into the negotiating room, the clause that has lain quietly in their women's contracts explodes.  </p>
+	 </div>
+    </li>
+         </ol>
+</div></div><div id="footer-stories" class="page section">
+    <div class="subcolumns">
+    <div class="c25l">
+        <div class="section">
+          <h2>Top Stories</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
         
-        </div>
-    
-                        
-    <div class="terminal-tout-container">
-        <div class="terminal-tout">
-            <span class="terminal-tout__text">Before it's here, it's on the Bloomberg Terminal.</span>
-            <div class="terminal-tout__icon"></div>
-            <a href="https://bloom.bg/dg-ws-core-bcom-a1" class="terminal-tout__link">LEARN MORE</a>
-        </div>
-    </div>
-                        
-                        
-                        
-                        
-        <div id="taboola-below-article-thumbnails-z2LHZGf" class="taboola"></div>
-    
-                    </section>
-                    <aside class="right-rail">
-                        <div class="sticky-container">
-                            
-        <div class="sticky-video"></div>
-    
-                            
-    <div id="box-vxZfp4n" class="box rotation-item page-ad" data-position="box">
-        <script class="params" type="text/ld+json">
-            {
-                "byzantium": {
-                    "contentId": "OI5JJQ6K50YC01"
-                },
-                "position": "box",
-                "dimensions": {
-                    "small_desktop": [
-                        [300, 600],
-                        [300, 250],
-                        [1, 1]
-                    ],
-                    "large_desktop": [
-                        [300, 600],
-                        [300, 250],
-                        [1, 1]
-                    ]
-                },
-                "adCode": "markets/article",
-                "url": "2016-12-14/gold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger",
-                "positionIncrement": 1,
-                "targeting": {"suid":"OI5JJQ6K50YC01","page":"articlejav","currentResource":"Story|OI5JJQ6K50YC01","ni":["AFRTOP","ALLTOP","ASBNX","BGOVALL","BGOVFINAN","BIZNEWS","BNALL","BNCOPY","BNCOPY2","BNSTAFF","BNTEAMS","BUSINESS","CATOP","CATOPZ3","CECO","CEN","CMD","CMDMARKET","CMDTOP","CMDTOPZ3","CMDX","DUPLICATE","ECO","EUBNX","EUCMDMKT","EUROPEME","EUROSTORY","FED","FINNEWS","FRXTOP","G7ECOS","GLD","GLDMARKET","GOV","GOVMISC","HLDUPLICAT","HLNOVELTY0","JSX","LATAMCMD","MARKETS","MET","METAMTEAM","METASTEAM","METEUTEAM","METMARKET","METTOP","METTOPZ2","MSCINAMER","MSCIWORLD","NONFERR","NORTHAM","NOVELTY0","NYX","ONWEB","PCS","PCSMARKET","POLNEWS","SSX","SWTOP","SWTOPZ3","TOP","TORX","UPDATE","US","USBNX","USECO","USGOV","USSTORY","USTOP","USTOPZ2","WEBCMMDTZD","ZATOP","ZATOPZ2","AFRICA","AGRKEY","AME","ATTACHMENT","BASIC","BBPROFILE","BGOVBILLGO","BGOVCODES","BON","BONDWIRES","WORLD","WEPFEX1","CBRATES","CMDGLOMAC","CMDKEY","COMSTAT","COS","WEBELIG","DC","DEBTKEY","DEVECO","TIMENI","EM","EMEAREGION","EQUITYKEY","TIMECO","PHOTO","FIASST","SRCRANK1","FXKEY","G10MEMB","G7MEMB","SPREGIONS","GLOMACBB","INDUSTRIES","INTERNAL","LEAST","MAJOR","METALKEY","METMNG","METSTAT","MISC","MNG","NRGKEY","QUOTED","OILKEY","POLIRISK","FIALL","RATESKEY","CREDITKEY","GLOBALMACR","FRX","PGM","NYMEX","EXC","REGIONFILT","BRNEWS","DIV","CACT","PALLADIUM"],"tickers":[],"tagr":["\n  currencies\n"],"kwl":["biz_goldman_q2","biz_accenture","biz_ibm","biz_testing123","biz_exxonmobil","biz_ishares","biz_hsbc","biz_cboe","biz_ubsbannedlist","biz_ArthurJGallagher","biz_nationwide","biz_bp_keywords","biz_capitalone","biz_wellsfargosept","biz_pnc","biz_googlelist","biz_googlelisttwo","biz_technologykeywords","biz_citi","biz_vices","biz_autocompetitors","biz_trowe"],"position":"box1","positionIncrement":1,"url":"/news/articles/2016-12-14/gold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger"},
-                "containerId": "box-vxZfp4n"
-            }
-        </script>
-    </div>
-    
-                            
-                            
-        <div class="recirc rotation-item">
-            <div class="recirc__title">Trending Now</div>
-            <ol class="recirc__list">
-                
-        <li class="recirc__list-item recirc__list-item-article">
-            <a class="recirc__list-item-article-link" href="http://www.bloomberg.com/news/articles/2016-12-14/fed-raises-rates-boosts-outlook-for-borrowing-costs-in-2017">Fed Raises Rates, Boosts Outlook for Borrowing Costs in 2017</a>
-        </li>
-        <li class="recirc__list-item recirc__list-item-article">
-            <a class="recirc__list-item-article-link" href="http://www.bloomberg.com/news/articles/2016-12-14/in-trump-country-the-brain-drain-takes-a-toll-bloomberg-index">Brain Drain Takes a Toll in Trump Country as Boulder Leaps</a>
-        </li>
-        <li class="recirc__list-item recirc__list-item-article">
-            <a class="recirc__list-item-article-link" href="http://www.bloomberg.com/news/articles/2016-12-14/with-an-airdrop-of-popcorn-amazon-makes-drone-delivery-history">An Airdrop of Popcorn Makes Amazon Drone Delivery History</a>
-        </li>
-        <li class="recirc__list-item recirc__list-item-article">
-            <a class="recirc__list-item-article-link" href="http://www.bloomberg.com/news/articles/2016-12-14/kissinger-at-93-expounds-on-rex-tillerson-one-china-and-trump">Kissinger at 93 Expounds on Rex Tillerson, &#x2018;One-China&#x2019; and Trump</a>
-        </li>
-        <li class="recirc__list-item recirc__list-item-article">
-            <a class="recirc__list-item-article-link" href="http://www.bloomberg.com/politics/articles/2016-12-14/trump-says-he-expected-to-lose-election-because-of-poll-results">Trump Says He Expected to Lose Election Because of Poll Results</a>
-        </li>
+        
+          
             
-    <li id="trendingnow-FbSUAxL" class="recirc__list-item recirc__list-item-ad" data-position="trendingnow">
-        <script class="params" type="text/ld+json">
-            {
-                "byzantium": {
-                    "contentId": "OI5JJQ6K50YC01"
-                },
-                "position": "trendingnow",
-                "dimensions": {
-                    "small_desktop": [
-                        [5, 18],
-                        [1, 1]
-                    ],
-                    "large_desktop": [
-                        [5, 18],
-                        [1, 1]
-                    ]
-                },
-                "adCode": "markets/article",
-                "url": "2016-12-14/gold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger",
-                "positionIncrement": 1,
-                "targeting": {"suid":"OI5JJQ6K50YC01","page":"articlejav","currentResource":"Story|OI5JJQ6K50YC01","ni":["AFRTOP","ALLTOP","ASBNX","BGOVALL","BGOVFINAN","BIZNEWS","BNALL","BNCOPY","BNCOPY2","BNSTAFF","BNTEAMS","BUSINESS","CATOP","CATOPZ3","CECO","CEN","CMD","CMDMARKET","CMDTOP","CMDTOPZ3","CMDX","DUPLICATE","ECO","EUBNX","EUCMDMKT","EUROPEME","EUROSTORY","FED","FINNEWS","FRXTOP","G7ECOS","GLD","GLDMARKET","GOV","GOVMISC","HLDUPLICAT","HLNOVELTY0","JSX","LATAMCMD","MARKETS","MET","METAMTEAM","METASTEAM","METEUTEAM","METMARKET","METTOP","METTOPZ2","MSCINAMER","MSCIWORLD","NONFERR","NORTHAM","NOVELTY0","NYX","ONWEB","PCS","PCSMARKET","POLNEWS","SSX","SWTOP","SWTOPZ3","TOP","TORX","UPDATE","US","USBNX","USECO","USGOV","USSTORY","USTOP","USTOPZ2","WEBCMMDTZD","ZATOP","ZATOPZ2","AFRICA","AGRKEY","AME","ATTACHMENT","BASIC","BBPROFILE","BGOVBILLGO","BGOVCODES","BON","BONDWIRES","WORLD","WEPFEX1","CBRATES","CMDGLOMAC","CMDKEY","COMSTAT","COS","WEBELIG","DC","DEBTKEY","DEVECO","TIMENI","EM","EMEAREGION","EQUITYKEY","TIMECO","PHOTO","FIASST","SRCRANK1","FXKEY","G10MEMB","G7MEMB","SPREGIONS","GLOMACBB","INDUSTRIES","INTERNAL","LEAST","MAJOR","METALKEY","METMNG","METSTAT","MISC","MNG","NRGKEY","QUOTED","OILKEY","POLIRISK","FIALL","RATESKEY","CREDITKEY","GLOBALMACR","FRX","PGM","NYMEX","EXC","REGIONFILT","BRNEWS","DIV","CACT","PALLADIUM"],"tickers":[],"tagr":["\n  currencies\n"],"kwl":["biz_goldman_q2","biz_accenture","biz_ibm","biz_testing123","biz_exxonmobil","biz_ishares","biz_hsbc","biz_cboe","biz_ubsbannedlist","biz_ArthurJGallagher","biz_nationwide","biz_bp_keywords","biz_capitalone","biz_wellsfargosept","biz_pnc","biz_googlelist","biz_googlelisttwo","biz_technologykeywords","biz_citi","biz_vices","biz_autocompetitors","biz_trowe"],"position":"trendingnow1","positionIncrement":1,"url":"/news/articles/2016-12-14/gold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger"},
-                "containerId": "trendingnow-FbSUAxL"
-            }
-        </script>
-    </li></ol>
-        </div>
-                        </div>
-                    </aside>
-                </div>
-            </article>
+            
+            
+          <li>
+    <a href="/news/2016-12-19/deficit-to-increase-by-$10-billion-myefo-shows/8131334">Deficit to increase by $10 billion, MYEFO shows</a></li>
+
         
-                        
-    <div id="native-XrqFYyo" class="native" data-position="native">
-        <script type="text/javascript">
-            window.__bloomberg__.ads.enqueue("native-XrqFYyo");
-        </script>
-        <script class="params" type="text/ld+json">
-            {
-                "byzantium": {
-                    "contentId": "OI5JJQ6K50YC01"
-                },
-                "position": "native",
-                "dimensions": {
-                    "all": [
-                        [5, 16],
-                        [5, 5],
-                        [5, 2],
-                        [1, 1]
-                    ],
-                    "mobile": [
-                        [300, 250]
-                    ]
-                },
-                "adCode": "markets/article",
-                "url": "2016-12-14/gold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger",
-                "type": "Native Transporter Ad",
-                "positionIncrement": 1,
-                "targeting": {"suid":"OI5JJQ6K50YC01","page":"articlejav","currentResource":"Story|OI5JJQ6K50YC01","ni":["AFRTOP","ALLTOP","ASBNX","BGOVALL","BGOVFINAN","BIZNEWS","BNALL","BNCOPY","BNCOPY2","BNSTAFF","BNTEAMS","BUSINESS","CATOP","CATOPZ3","CECO","CEN","CMD","CMDMARKET","CMDTOP","CMDTOPZ3","CMDX","DUPLICATE","ECO","EUBNX","EUCMDMKT","EUROPEME","EUROSTORY","FED","FINNEWS","FRXTOP","G7ECOS","GLD","GLDMARKET","GOV","GOVMISC","HLDUPLICAT","HLNOVELTY0","JSX","LATAMCMD","MARKETS","MET","METAMTEAM","METASTEAM","METEUTEAM","METMARKET","METTOP","METTOPZ2","MSCINAMER","MSCIWORLD","NONFERR","NORTHAM","NOVELTY0","NYX","ONWEB","PCS","PCSMARKET","POLNEWS","SSX","SWTOP","SWTOPZ3","TOP","TORX","UPDATE","US","USBNX","USECO","USGOV","USSTORY","USTOP","USTOPZ2","WEBCMMDTZD","ZATOP","ZATOPZ2","AFRICA","AGRKEY","AME","ATTACHMENT","BASIC","BBPROFILE","BGOVBILLGO","BGOVCODES","BON","BONDWIRES","WORLD","WEPFEX1","CBRATES","CMDGLOMAC","CMDKEY","COMSTAT","COS","WEBELIG","DC","DEBTKEY","DEVECO","TIMENI","EM","EMEAREGION","EQUITYKEY","TIMECO","PHOTO","FIASST","SRCRANK1","FXKEY","G10MEMB","G7MEMB","SPREGIONS","GLOMACBB","INDUSTRIES","INTERNAL","LEAST","MAJOR","METALKEY","METMNG","METSTAT","MISC","MNG","NRGKEY","QUOTED","OILKEY","POLIRISK","FIALL","RATESKEY","CREDITKEY","GLOBALMACR","FRX","PGM","NYMEX","EXC","REGIONFILT","BRNEWS","DIV","CACT","PALLADIUM"],"tickers":[],"tagr":["\n  currencies\n"],"kwl":["biz_goldman_q2","biz_accenture","biz_ibm","biz_testing123","biz_exxonmobil","biz_ishares","biz_hsbc","biz_cboe","biz_ubsbannedlist","biz_ArthurJGallagher","biz_nationwide","biz_bp_keywords","biz_capitalone","biz_wellsfargosept","biz_pnc","biz_googlelist","biz_googlelisttwo","biz_technologykeywords","biz_citi","biz_vices","biz_autocompetitors","biz_trowe"],"position":"native1","positionIncrement":1,"url":"/news/articles/2016-12-14/gold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger"},
-                "containerId": "native-XrqFYyo"
-            }
-        </script>
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/aaa-credit-rating-survives-for-now-after-myefo/8132996">Australia scrapes a pass from ratings agencies in latest budget test</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/australia-seals-first-test-win-over-pakistan-by-39-runs/8132534">Australia seals nail-biting win over Pakistan by 39 runs</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/pauline-hanson-vows-one-nation-will-survive/8133316">Pauline Hanson vows One Nation will survive after Culleton&#039;s resignation</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/lion-nicole-kidman-sue-brierley-bond-in-film-of-sons-story/8132862">The Hobart mum who wanted to be played by Nicole Kidman</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/guildford-streets-in-police-lockdown-and-girl-critical/8133250">Man arrested after 2yo girl found &#039;unresponsive&#039; in vehicle</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/bowe-maddigan-sentence-murder-school-girl-zoe-buttigieg/8131348">Man jailed for 28 years for &#039;gratuitous&#039; murder of 11yo girl</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/tiger-snake-found-in-christmas-tree-decorations-frankston/8131764">Fake tree, real snake: Tinsel hides nasty surprise</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/india's-plan-to-step-away-from-coal-casts-doubt-on-adani-mine/8131240">India&#039;s plan to step away from coal casts doubt on Adani mine</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/deaf-community-hails-school-rollout-of-auslan-curriculum/8132474">Deaf community hails rollout of first ever Auslan curriculum</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/high-prices-of-beer-at-sports-stadiums-revealed/8132476">Pour form: Counting the cost of beer at the game</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/rosie-batty-calls-on-peter-dutton-to-let-chamari-liyanage-stay/8132396">Batty calls on Dutton to allow woman who killed abusive husband to stay in Australia</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/zsa-zsa-gabor-dies-aged-99/8131524">Hollywood socialite Zsa Zsa Gabor dies aged 99</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/aleppo:-france-russia-reach-compromise-as-evacuations-uncertain/8132030">France, Russia reach UN compromise as Aleppo evacuations resume</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Just In</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/adelaide-boarding-house-killer-luke-robert-john-ford-jailed/8132932">Adelaide boarding house killer jailed for 11 years</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/confidante-of-disgraced-president-park-geun-hye-goes-on-trial/8133328">Confidante of disgraced South Korean President goes on trial</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/firefighter-jourdan-ashford-has-arson-sentence-reduced/8133390">Perth firefighter has arson sentence reduced</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/pauline-hanson-vows-one-nation-will-survive/8133316">Pauline Hanson vows One Nation will survive after Culleton&#039;s resignation</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/lion-nicole-kidman-sue-brierley-bond-in-film-of-sons-story/8132862">The Hobart mum who wanted to be played by Nicole Kidman</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/marakoopa-cave-reopened-six-months-after-floods/8133360">Spirits lifted as tourist drawcard Marakoopa Cave reopens</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/wa-prisons-overcrowded-cells-inadequate-report-finds/8133278">WA prisons overcrowded, report finds</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/diy-disasters-on-rise-amid-renovation-tv-boom/8133204">DIY disasters on rise amid renovation TV boom</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/deputy-premier's-wife-cleared-of-breaking-donation-laws/8133314">Deputy Premier&#039;s wife cleared of breaking donation laws</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/salvation-army-reports-rise-in-christmas-volunteers-in-melbourne/8133196">Salvation Army reports rise in Christmas volunteers &#039;doing it tough&#039;</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Most Popular</h2><ul class="headlines">
+  <li>
+    <a href="/news/2011-12-08/mash-star-harry-morgan-dies/3719248">MASH&#039;s &#039;Colonel Potter&#039; dies aged 96</a>
+
+</li>
+<li>
+    <a href="/news/2016-12-19/tiger-snake-found-in-christmas-tree-decorations-frankston/8131764">Fake tree, real snake: Tinsel hides nasty surprise</a>
+
+</li>
+<li>
+    <a href="/news/2016-12-19/australia-v-pakistan-day-five-live-blog/8132086">As it happened: Pakistan&#039;s dream ends as Australia wraps up victory</a>
+
+</li>
+<li>
+    <a href="/news/2016-12-19/india's-plan-to-step-away-from-coal-casts-doubt-on-adani-mine/8131240">India&#039;s plan to step away from coal casts doubt on Adani mine</a>
+
+</li>
+<li>
+    <a href="/news/2016-12-19/deficit-to-increase-by-$10-billion-myefo-shows/8131334">Deficit to increase by $10 billion, MYEFO shows</a>
+
+</li>
+<li>
+    <a href="/news/2016-12-19/parents-long-search-for-children-lost-in-japans-2011-tsunami/8121122">Parents&#039; heartbreaking search for children lost in Japan tsunami</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+<li>
+    <a href="/news/2016-12-19/why-the-triple-a-credit-rating-is-doomed/8130798">Why Australia&#039;s AAA credit rating is doomed</a>
+
+</li>
+<li>
+    <a href="/news/2016-12-19/rod-culleton-two-men-evicted-former-one-nation-senator-court/8132530">Two men arrested during chaotic Culleton court appearance</a>
+
+</li>
+<li>
+    <a href="/news/2016-12-18/one-nation-senator-rod-culleton-resigns-from-party/8130848">Rod Culleton resigns from One Nation</a>
+
+</li>
+<li>
+    <a href="/news/2016-12-19/zsa-zsa-gabor-dies-aged-99/8131524">Hollywood socialite Zsa Zsa Gabor dies aged 99</a>
+
+</li>
+</ul></div>
+      </div>
+    <div class="c25r">
+        <div class="section">
+          <h2>Analysis &amp; Opinion</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-19/why-the-triple-a-credit-rating-is-doomed/8130798">Why Australia&#039;s AAA credit rating is doomed</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-17/christmas-traditions-politically-correct-brigade/8128284">Has the politically correct brigade hit the eggnog too hard?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-17/jo-fox-women-in-politics-cant-wear-what-they-please/8126884">Why women in politics can&#039;t wear what they please</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-16/michelle-grattan-big-issues-out-of-malcolm-turnbulls-reach/8126834">Michelle Grattan: Big issues out of Turnbull&#039;s reach</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-16/economic-outlook-escaping-the-global-growth-trap/8124518">Escaping the global growth trap or digging a deeper hole?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-15/federal-reserve-rate-rises-will-reverberate-across-financial-ma/8123056">Fed rocks the free money world as end of distortion hits home</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-15/why-every-generation-feels-entitled/8122850">Why every generation feels entitled</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-15/federal-reserve-rate-rise-why-does-it-matter/8122662">Why does the US rate rise matter for Australia?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-15/eddie-obeid-why-everyone-is-talking-about-him/8120006">Eddie Obeid: Why everyone is talking about the man with a &#039;moral vacuum&#039;</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2016-12-14/syria-rebels-lose-aleppo-idlib-provice-becomes-final-stronghold/8117594">With the fall of Aleppo, Idlib province becomes rebels&#039; final stronghold</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
     </div>
-    
-                    </div>
-                </main>
-                
-                <footer class="bb-global-footer"> <div class="bb-global-footer__content"> <div class="bb-global-footer__group"> <a class="bb-global-footer__link" href="http://www.bloomberg.com/tos">Terms of Service</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/trademarks">Trademarks</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/privacy">Privacy Policy</a> <small class="bb-global-footer__copyright">©2016 Bloomberg L.P. All Rights Reserved</small> </div> <div class="bb-global-footer__group"> <a class="bb-global-footer__link" href="http://www.bloomberg.com/careers/?utm_source=dotcom&utm_medium=footer">Careers</a> <a class="bb-global-footer__link" href="http://nytm.org/made-in-nyc">Made in NYC</a> <a class="bb-global-footer__link" href="http://bloombergmedia.com/">Advertise</a> <a class="bb-global-footer__link bb-global-footer__ad-choices" href="http://www.bloomberg.com/privacy#advertisements">Ad Choices</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/feedback">Website Feedback</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/help">Help</a> </div> </div> </footer>
-                
-        <script>
-            window["jvln-asset-prefix"] = "https://assets.bwbx.io/javelin";
-        </script>
-        <script class="dependencies" type="application/json">
-            {"css":["/public/css/application/application-bb74794f8e.css","/public/css/layout/basic/basic-5035d81885.css","/public/css/layout/basic/basic-96d239dc7c.desktop.css","/public/css/layout/basic/basic-feab898b86.small_desktop.css","/public/css/layout/basic/basic-a69847c3fa.large_desktop.css","/public/css/layout/basic/basic-18b13ea089.tablet.css","/public/css/layout/basic/basic-80068e7b37.mobile.css","/public/css/nav/bb/nav-7925ef46ee.css","/public/css/components/breaking_news_placeholder/breaking_news-a6270d5f8e.desktop.css","/public/css/components/image_viewer/image_viewer-b050485e3d.css","/public/css/components/image_viewer/image_viewer-44ae116396.desktop.css","/public/css/components/image_viewer/image_viewer-90a9b24409.mobile-tablet.css","/public/css/components/image_viewer/image_viewer-0e5ec91ea4.mobile.css","/public/css/print/print-1c3cb980b3.css","/public/css/components/truste/truste-28f6157d69.css","/public/css/components/truste/truste-323c682892.small_desktop.css","/public/css/components/truste/truste-5679a9f67c.large_desktop.css","/public/css/components/truste/truste-932ba91b49.tablet.css","/public/css/components/truste/truste-53c717658f.mobile.css","/public/css/ads/leaderboard/leaderboard-bf966d32e6.css","/public/css/ads/leaderboard/leaderboard-290beb4fc2.tablet-desktop.css","/public/css/ads/native/native-15685ecbee.css","/public/css/components/abstract/abstract-c1458b6375.css","/public/css/components/author_tout/author_tout-1f08dd3eb5.css","/public/css/components/author_tout/author_tout-e273b6df99.mobile.css","/public/css/body/basic/body-df7b52d884.css","/public/css/body/basic/newsletter_tout-954d205246.css","/public/css/body/basic/body-20d0a82ef5.desktop.css","/public/css/body/basic/in_article_ad-238ed3378a.desktop.css","/public/css/body/basic/body-e74c024d6f.large_desktop.css","/public/css/body/basic/newsletter_tout-5887db8153.large_desktop.css","/public/css/body/basic/body-e886f59cb3.tablet-desktop.css","/public/css/body/basic/mobile_ads-10915d4c59.tablet-desktop.css","/public/css/body/basic/body-b820c41d19.tablet.css","/public/css/body/basic/in_article_ad-1f3cd7d393.tablet.css","/public/css/body/basic/in_article_ad-da16ca24ed.mobile-tablet.css","/public/css/body/basic/body-2cfdf98971.mobile.css","/public/css/body/basic/in_article_ad-4f5a3665c2.mobile.css","/public/css/body/basic/mobile_ads-1a98e3a413.mobile.css","/public/css/body/basic/newsletter_tout-12eaa8fd13.mobile.css","/public/css/ledes/basic/video/video-4703e086c5.css","/public/css/ledes/basic/video/video-d88c002e2c.desktop.css","/public/css/ledes/basic/video/video-36691f1d24.large_desktop.css","/public/css/ledes/basic/video/video-86bf2ad2f7.tablet.css","/public/css/ledes/basic/video/video-b10ee21246.mobile.css","/public/css/ledes/basic/text_only/text_only-a7a63d4786.css","/public/css/ledes/basic/text_only/text_only-341bfa3052.desktop.css","/public/css/ledes/basic/text_only/text_only-6a33ad34f5.small_desktop.css","/public/css/ledes/basic/text_only/text_only-b17a45ed53.large_desktop.css","/public/css/ledes/basic/text_only/text_only-a274b68c4a.tablet.css","/public/css/ledes/basic/text_only/text_only-45fe32f1b1.mobile.css","/public/css/components/author_details/author_details-79b4455612.css","/public/css/components/recirc/recirc-54a5451ab9.css","/public/css/ads/terminal_tout/terminal_tout-06ffd4bb61.css","/public/css/ads/terminal_tout/terminal_tout-b55b132f21.mobile.css","/public/css/themes/markets/markets-715ad110d0.css","/public/css/components/recirc/recirc-54a5451ab9.css","/public/css/components/sticky_video/sticky_video-abccaf05bd.desktop.css"],"js":["/public/js/layout/basic/right_rail-7fd1bb46e6.desktop.js","/public/js/nav/bb/nav-b37202fd33.js","/public/js/components/breaking_news_placeholder/breaking_news_placeholder-90352a67e8.js","/public/js/components/image_viewer/image_viewer-1286fdbee3.js","/public/js/ads/initialize/initialize_ads-b6de33a687.js","/public/js/transporter/transporter-26d949db13.js","/public/js/components/truste/truste-6ac723d3b5.js","/public/js/ads/leaderboard/leaderboard-31b77097ad.tablet-desktop.js","/public/js/components/video_player/video_player-6ce03acb98.js","/public/js/body/basic/footnotes-38a28ff6d1.js","/public/js/body/basic/newsletter_tout-543457c2a8.js","/public/js/body/basic/third_party_embed-8109483a70.js","/public/js/components/author_details/author_details-06d9d1cb95.js","/public/js/ads/taboola/taboola-cf10b9b3f8.js","/public/js/components/sticky_video/sticky_video-f13d935cdc.desktop.js","/public/js/dependencies/dependencies-d4f7452ec9.js"]}
-        </script>
-                
-        <script class="content-data" type="application/json">
-            %7B%22adCode%22%3A%22markets%2Farticle%22%2C%22brand%22%3A%22markets%22%2C%22byline%22%3A%22Luzi%20Ann%20Javier%20and%20Kevin%20Crowley%22%2C%22id%22%3A%22OI5JJQ6K50YC01%22%2C%22primaryCategory%22%3A%22markets%22%2C%22publishedAt%22%3A%222016-12-14T01%3A45%3A26.584Z%22%2C%22seoHeadline%22%3A%22Gold%20Bounces%20From%2010-Month%20Low%20Before%20Fed%20Reserve%20Rate%20Decision%22%2C%22slug%22%3A%222016-12-14%2Fgold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger%22%2C%22shortUrl%22%3A%22http%3A%2F%2Fbloom.bg%2F2gY3uQZ%22%2C%22tags%22%3A%7B%22editorialTopics%22%3A%5B%7B%22id%22%3A%22video-stories%22%2C%22name%22%3A%22Video%20Stories%22%2C%22score%22%3A3%2C%22slug%22%3A%22video-stories%22%2C%22type%22%3A%22topic%22%7D%5D%2C%22people%22%3A%5B%7B%22id%22%3A%221442491%22%2C%22slug%22%3A%22ABYCu2nT1cg%2Fjanet-l-yellen%22%2C%22fullName%22%3A%22Janet%20L%20Yellen%22%2C%22score%22%3A0.8724061810154525%7D%2C%7B%22id%22%3A%221252249%22%2C%22slug%22%3A%22ABMbmW05x-Y%2Fdonald-j-trump%22%2C%22fullName%22%3A%22Donald%20John%20Trump%22%2C%22score%22%3A1.2649006622516556%7D%5D%2C%22niCodes%22%3A%5B%7B%22id%22%3A%22AFRTOP%22%7D%2C%7B%22id%22%3A%22ALLTOP%22%7D%2C%7B%22id%22%3A%22ASBNX%22%7D%2C%7B%22id%22%3A%22BGOVALL%22%7D%2C%7B%22id%22%3A%22BGOVFINAN%22%7D%2C%7B%22id%22%3A%22BIZNEWS%22%7D%2C%7B%22id%22%3A%22BNALL%22%7D%2C%7B%22id%22%3A%22BNCOPY%22%7D%2C%7B%22id%22%3A%22BNCOPY2%22%7D%2C%7B%22id%22%3A%22BNSTAFF%22%7D%2C%7B%22id%22%3A%22BNTEAMS%22%7D%2C%7B%22id%22%3A%22BUSINESS%22%7D%2C%7B%22id%22%3A%22CATOP%22%7D%2C%7B%22id%22%3A%22CATOPZ3%22%7D%2C%7B%22id%22%3A%22CECO%22%7D%2C%7B%22id%22%3A%22CEN%22%7D%2C%7B%22id%22%3A%22CMD%22%7D%2C%7B%22id%22%3A%22CMDMARKET%22%7D%2C%7B%22id%22%3A%22CMDTOP%22%7D%2C%7B%22id%22%3A%22CMDTOPZ3%22%7D%2C%7B%22id%22%3A%22CMDX%22%7D%2C%7B%22id%22%3A%22DUPLICATE%22%7D%2C%7B%22id%22%3A%22ECO%22%7D%2C%7B%22id%22%3A%22EUBNX%22%7D%2C%7B%22id%22%3A%22EUCMDMKT%22%7D%2C%7B%22id%22%3A%22EUROPEME%22%7D%2C%7B%22id%22%3A%22EUROSTORY%22%7D%2C%7B%22id%22%3A%22FED%22%7D%2C%7B%22id%22%3A%22FINNEWS%22%7D%2C%7B%22id%22%3A%22FRXTOP%22%7D%2C%7B%22id%22%3A%22G7ECOS%22%7D%2C%7B%22id%22%3A%22GLD%22%7D%2C%7B%22id%22%3A%22GLDMARKET%22%7D%2C%7B%22id%22%3A%22GOV%22%7D%2C%7B%22id%22%3A%22GOVMISC%22%7D%2C%7B%22id%22%3A%22HLDUPLICAT%22%7D%2C%7B%22id%22%3A%22HLNOVELTY0%22%7D%2C%7B%22id%22%3A%22JSX%22%7D%2C%7B%22id%22%3A%22LATAMCMD%22%7D%2C%7B%22id%22%3A%22MARKETS%22%7D%2C%7B%22id%22%3A%22MET%22%7D%2C%7B%22id%22%3A%22METAMTEAM%22%7D%2C%7B%22id%22%3A%22METASTEAM%22%7D%2C%7B%22id%22%3A%22METEUTEAM%22%7D%2C%7B%22id%22%3A%22METMARKET%22%7D%2C%7B%22id%22%3A%22METTOP%22%7D%2C%7B%22id%22%3A%22METTOPZ2%22%7D%2C%7B%22id%22%3A%22MSCINAMER%22%7D%2C%7B%22id%22%3A%22MSCIWORLD%22%7D%2C%7B%22id%22%3A%22NONFERR%22%7D%2C%7B%22id%22%3A%22NORTHAM%22%7D%2C%7B%22id%22%3A%22NOVELTY0%22%7D%2C%7B%22id%22%3A%22NYX%22%7D%2C%7B%22id%22%3A%22ONWEB%22%7D%2C%7B%22id%22%3A%22PCS%22%7D%2C%7B%22id%22%3A%22PCSMARKET%22%7D%2C%7B%22id%22%3A%22POLNEWS%22%7D%2C%7B%22id%22%3A%22SSX%22%7D%2C%7B%22id%22%3A%22SWTOP%22%7D%2C%7B%22id%22%3A%22SWTOPZ3%22%7D%2C%7B%22id%22%3A%22TOP%22%7D%2C%7B%22id%22%3A%22TORX%22%7D%2C%7B%22id%22%3A%22UPDATE%22%7D%2C%7B%22id%22%3A%22US%22%7D%2C%7B%22id%22%3A%22USBNX%22%7D%2C%7B%22id%22%3A%22USECO%22%7D%2C%7B%22id%22%3A%22USGOV%22%7D%2C%7B%22id%22%3A%22USSTORY%22%7D%2C%7B%22id%22%3A%22USTOP%22%7D%2C%7B%22id%22%3A%22USTOPZ2%22%7D%2C%7B%22id%22%3A%22WEBCMMDTZD%22%7D%2C%7B%22id%22%3A%22ZATOP%22%7D%2C%7B%22id%22%3A%22ZATOPZ2%22%7D%2C%7B%22id%22%3A%22AFRICA%22%7D%2C%7B%22id%22%3A%22AGRKEY%22%7D%2C%7B%22id%22%3A%22AME%22%7D%2C%7B%22id%22%3A%22ATTACHMENT%22%7D%2C%7B%22id%22%3A%22BASIC%22%7D%2C%7B%22id%22%3A%22BBPROFILE%22%7D%2C%7B%22id%22%3A%22BGOVBILLGO%22%7D%2C%7B%22id%22%3A%22BGOVCODES%22%7D%2C%7B%22id%22%3A%22BON%22%7D%2C%7B%22id%22%3A%22BONDWIRES%22%7D%2C%7B%22id%22%3A%22WORLD%22%7D%2C%7B%22id%22%3A%22WEPFEX1%22%7D%2C%7B%22id%22%3A%22CBRATES%22%7D%2C%7B%22id%22%3A%22CMDGLOMAC%22%7D%2C%7B%22id%22%3A%22CMDKEY%22%7D%2C%7B%22id%22%3A%22COMSTAT%22%7D%2C%7B%22id%22%3A%22COS%22%7D%2C%7B%22id%22%3A%22WEBELIG%22%7D%2C%7B%22id%22%3A%22DC%22%7D%2C%7B%22id%22%3A%22DEBTKEY%22%7D%2C%7B%22id%22%3A%22DEVECO%22%7D%2C%7B%22id%22%3A%22TIMENI%22%7D%2C%7B%22id%22%3A%22EM%22%7D%2C%7B%22id%22%3A%22EMEAREGION%22%7D%2C%7B%22id%22%3A%22EQUITYKEY%22%7D%2C%7B%22id%22%3A%22TIMECO%22%7D%2C%7B%22id%22%3A%22PHOTO%22%7D%2C%7B%22id%22%3A%22FIASST%22%7D%2C%7B%22id%22%3A%22SRCRANK1%22%7D%2C%7B%22id%22%3A%22FXKEY%22%7D%2C%7B%22id%22%3A%22G10MEMB%22%7D%2C%7B%22id%22%3A%22G7MEMB%22%7D%2C%7B%22id%22%3A%22SPREGIONS%22%7D%2C%7B%22id%22%3A%22GLOMACBB%22%7D%2C%7B%22id%22%3A%22INDUSTRIES%22%7D%2C%7B%22id%22%3A%22INTERNAL%22%7D%2C%7B%22id%22%3A%22LEAST%22%7D%2C%7B%22id%22%3A%22MAJOR%22%7D%2C%7B%22id%22%3A%22METALKEY%22%7D%2C%7B%22id%22%3A%22METMNG%22%7D%2C%7B%22id%22%3A%22METSTAT%22%7D%2C%7B%22id%22%3A%22MISC%22%7D%2C%7B%22id%22%3A%22MNG%22%7D%2C%7B%22id%22%3A%22NRGKEY%22%7D%2C%7B%22id%22%3A%22QUOTED%22%7D%2C%7B%22id%22%3A%22OILKEY%22%7D%2C%7B%22id%22%3A%22POLIRISK%22%7D%2C%7B%22id%22%3A%22FIALL%22%7D%2C%7B%22id%22%3A%22RATESKEY%22%7D%2C%7B%22id%22%3A%22CREDITKEY%22%7D%2C%7B%22id%22%3A%22GLOBALMACR%22%7D%2C%7B%22id%22%3A%22FRX%22%7D%2C%7B%22id%22%3A%22PGM%22%7D%2C%7B%22id%22%3A%22NYMEX%22%7D%2C%7B%22id%22%3A%22EXC%22%7D%2C%7B%22id%22%3A%22REGIONFILT%22%7D%2C%7B%22id%22%3A%22BRNEWS%22%7D%2C%7B%22id%22%3A%22DIV%22%7D%2C%7B%22id%22%3A%22CACT%22%7D%2C%7B%22id%22%3A%22PALLADIUM%22%7D%5D%2C%22tickers%22%3A%5B%7B%22id%22%3A%22GLE%3AFP%22%2C%22longName%22%3A%22Societe%20Generale%20SA%22%2C%22score%22%3A0.4123620309050773%7D%5D%2C%22indexes%22%3A%5B%7B%22id%22%3A%22INDU%3AIND%22%2C%22longName%22%3A%22Dow%20Jones%20Industrial%20Average%22%2C%22score%22%3A0.2772626931567329%7D%2C%7B%22id%22%3A%22SPX%3AIND%22%2C%22longName%22%3A%22S%26P%20500%20Index%22%2C%22score%22%3A0.28520971302428255%7D%2C%7B%22id%22%3A%22BCOM%3AIND%22%2C%22longName%22%3A%22Bloomberg%20Commodity%20Index%22%2C%22score%22%3A0.2988962472406181%7D%5D%2C%22labels%22%3A%5B%5D%2C%22topics%22%3A%5B%7B%22id%22%3A%22currencies%22%2C%22name%22%3A%22Currencies%22%2C%22score%22%3A0.15805739514348785%2C%22slug%22%3A%22currencies%22%7D%2C%7B%22id%22%3A%22raw-materials%22%2C%22name%22%3A%22Raw%20Materials%22%2C%22score%22%3A0.30816777041942606%2C%22slug%22%3A%22raw-materials%22%7D%2C%7B%22id%22%3A%22monetary-policy%22%2C%22name%22%3A%22Monetary%20Policy%22%2C%22score%22%3A0.4631346578366446%2C%22slug%22%3A%22monetary-policy%22%7D%2C%7B%22id%22%3A%22new-york%22%2C%22name%22%3A%22New%20York%22%2C%22score%22%3A0.7240618101545254%2C%22slug%22%3A%22new-york%22%7D%2C%7B%22id%22%3A%22interest-rates%22%2C%22name%22%3A%22Interest%20Rates%22%2C%22score%22%3A0.9200883002207505%2C%22slug%22%3A%22interest-rates%22%7D%2C%7B%22id%22%3A%22federal-reserve%22%2C%22name%22%3A%22Federal%20Reserve%22%2C%22score%22%3A0.9514348785871964%2C%22slug%22%3A%22federal-reserve%22%7D%2C%7B%22id%22%3A%22gold%22%2C%22name%22%3A%22Gold%22%2C%22score%22%3A7.247682119205297%2C%22slug%22%3A%22gold%22%2C%22type%22%3A%22topic%22%7D%5D%7D%2C%22textHeadline%22%3A%22Gold%20Bounces%20From%2010-Month%20Low%20Before%20Fed%20Reserve%20Rate%20Decision%22%2C%22theme%22%3A%22markets%22%2C%22twitterText%22%3A%22Gold%20Bounces%20From%2010-Month%20Low%20Before%20Fed%20Reserve%20Rate%20Decision%22%2C%22twitterHandle%22%3A%22markets%22%2C%22type%22%3A%22article%22%2C%22url%22%3A%22https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2016-12-14%2Fgold-languishes-as-fed-chief-yellen-expected-to-pull-the-trigger%22%2C%22webOriginal%22%3Afalse%7D
-        </script>
-    
-                
-        <script type="text/javascript">
-            if (window.matchMedia("all").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/ads/initialize/initialize_ads-b6de33a687.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
-    
-                
-        <script type="text/javascript">
-            if (window.matchMedia("(min-width:761px)").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/ads/leaderboard/leaderboard-31b77097ad.tablet-desktop.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
-    
-                
-        <script type="text/javascript">
-            if (window.matchMedia("all").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/components/breaking_news_placeholder/breaking_news_placeholder-90352a67e8.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
-    
-                
-        <script type="text/javascript">
-            if (window.matchMedia("all").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/components/video_player/video_player-6ce03acb98.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
-    
-                
-                
-        <script type="text/javascript">
-            if (window.matchMedia("(min-width:1021px)").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/layout/basic/right_rail-7fd1bb46e6.desktop.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
-    
-                
-        <script type="text/javascript">
-            if (window.matchMedia("all").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/components/author_details/author_details-06d9d1cb95.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
-    
-        <script type="text/javascript">
-            if (window.matchMedia("all").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/body/basic/footnotes-38a28ff6d1.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
-    
-
-        <script type="text/javascript">
-            if (window.matchMedia("all").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/body/basic/newsletter_tout-543457c2a8.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
-    
-
-        <script type="text/javascript">
-            if (window.matchMedia("all").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/body/basic/third_party_embed-8109483a70.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
-    
-        <script type="text/javascript">
-            if (window.matchMedia("(min-width:1021px)").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/components/sticky_video/sticky_video-f13d935cdc.desktop.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
-    
-        <script type="text/javascript">
-            if (window.matchMedia("all").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/ads/taboola/taboola-cf10b9b3f8.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
-    
-                
-        <script type="text/javascript">
-            if (window.matchMedia("all").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/transporter/transporter-26d949db13.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
-    
-                <script type="text/javascript">(function(d){var s=d.createElement("script");s.async=true;s.src="https://www.bbthat.com/assets/v1.2.1/that.js";s.type="text/javascript";d.head.appendChild(s);})(document);</script>
-                
-        <script type="text/javascript">
-            if (window.matchMedia("all").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/nav/bb/nav-b37202fd33.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
-    
-                <script type="text/javascript">(function(d){var s=d.createElement("script");s.async=true;s.src="https://nav.bloomberg.com/public/javascripts/global/bb-global-nav-09ff93bb1d.js";s.type="text/javascript";d.head.appendChild(s);})(document);</script>
-                
-                
-        <script type="text/javascript">
-            if (window.matchMedia("all").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/components/image_viewer/image_viewer-1286fdbee3.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
-    
-                
-        <script type="text/javascript">
-            if (window.matchMedia("all").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/dependencies/dependencies-d4f7452ec9.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
-    
-                <script type="text/javascript"> (function(windough, doc) { (function polyfillCustomEvent() { try { new windough.CustomEvent("test"); } catch(e) { var CustomEvent = function(event, params) { params = params || { bubbles: false, cancelable: false, detail: undefined };var evt = doc.createEvent("CustomEvent"); evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail); return evt; };CustomEvent.prototype = windough.Event.prototype; windough.CustomEvent = CustomEvent; } })();function $header() { return doc.getElementById("bb-nav"); }function $unsupportedText() { return document.querySelector(".bb-unsupported-message__text"); }function customMessage() { var customMsgNode = document.getElementById("bb_unsupported_custom_message"); if (customMsgNode) { return JSON.parse(customMsgNode.innerHTML).message; } }if ( doc.documentMode === 9 || doc.documentMode === 10 || (!windough.CSSMediaRule && !windough.matchMedia && !windough.msMatchMedia) ) { function message() { var css = "body.bb-unsupported-browser .bb-nav-placeholder{height:auto}body.bb-unsupported-browser #bb-that,body.bb-unsupported-browser .bb-nav-root{display:none;height:auto}body.bb-unsupported-browser .bb-nav-root{display:block}.bb-unsupported-message{background-color:#000;padding:20px 0}@media screen and (max-width: 63.6875rem){.bb-unsupported-message__logo-box{padding-bottom:10px}.bb-unsupported-message__copy{margin:0}}@media screen and (min-width: 63.75rem){.bb-unsupported-message__content{font-size:12px;display:table-cell;padding-left:50px}.bb-unsupported-message__logo-box{display:table-cell;vertical-align:middle}.bb-unsupported-message__copy{margin:1em 0}}.bb-unsupported-message__logo-box{padding-bottom:10px}.bb-unsupported-message__copy{margin:0}.bb-unsupported-message__message{width:70%;margin:0 auto;color:#fff}.bb-unsupported-message__content{font-size:12px}.bb-unsupported-message__logo:before{content:\"\";display:block;background:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjExNSAtOS42IDI1Ny44IDQ3LjYiPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMTUtOS42aDE4LjljMy42IDAgNi4zLjkgOC4zIDIuNCAyLjIgMS44IDMuNCA0LjQgMy40IDcuNiAwIDMuNy0xLjUgNi00LjUgNy40VjhjNCAxLjMgNi4zIDQuOSA2LjMgOS4yIDAgNC4xLTEuNiA3LjMtNC4yIDkuMy0yLjIgMS42LTUgMi4zLTguOCAyLjNIMTE1Vi05LjZ6bTE3IDE1YzIgMCAzLjUtMS4xIDMuNS0zLjQgMC0yLjItMS41LTMuMy0zLjYtMy4zaC02LjV2Ni42aDYuNnptLjkgMTQuOWMyLjMgMCA0LTEuNCA0LTMuOSAwLTIuNy0xLjgtMy45LTQtMy45aC03LjR2Ny45aDcuNHpNMTQ5LjEtOS42aDkuOXYzOC41aC05LjlWLTkuNnpNMTYxIDE1LjJDMTYxIDYuNSAxNjYuNi43IDE3NS4zLjdzMTQuMiA1LjkgMTQuMiAxNC41YzAgOC43LTUuNSAxNC41LTE0LjIgMTQuNVMxNjEgMjMuOSAxNjEgMTUuMnptMTguNiAwYzAtNC44LTEuNS03LjgtNC41LTcuOHMtNC40IDMtNC40IDcuOCAxLjQgNy45IDQuNCA3LjljMy0uMSA0LjUtMy4xIDQuNS03Ljl6TTE5MC42IDE1LjJjMC04LjcgNS42LTE0LjUgMTQuMy0xNC41UzIxOSA2LjUgMjE5IDE1LjJzLTUuNSAxNC41LTE0LjIgMTQuNWMtOC42IDAtMTQuMi01LjgtMTQuMi0xNC41em0xOC42IDBjMC00LjgtMS41LTcuOC00LjUtNy44cy00LjQgMy00LjQgNy44IDEuNCA3LjkgNC40IDcuOWMzLS4xIDQuNS0zLjEgNC41LTcuOXpNMjIxIDEuNGg5LjJ2NC4xaC4yYzEuOC0zLjIgNC4zLTQuOSA4LjMtNC45IDMuNSAwIDYuMSAxLjcgNy40IDQuN2guMmMyLjItMy42IDUuMS00LjcgOC41LTQuNyA2LjQgMCA5LjEgNC43IDkuMSAxMXYxNy4yaC05LjZWMTMuM2MwLTIuOC0uOS00LjYtMy4zLTQuNnMtMy42IDIuMi0zLjYgNS4ydjE0LjloLTkuNlYxMy4zYzAtMi44LS45LTQuNi0zLjMtNC42cy0zLjYgMi4yLTMuNiA1LjJ2MTQuOUgyMjFWMS40ek0yNzYgMjUuMmgtLjF2My42aC05LjJWLTkuNmg5LjZWNC4yaC4yYzEuOC0yLjQgNC4zLTMuNyA3LjgtMy43IDYuOSAwIDEwLjkgNi4yIDEwLjkgMTQuNSAwIDkuMy00LjMgMTQuNy0xMS41IDE0LjctMyAwLTYuMS0xLjQtNy43LTQuNXptOS4zLTEwLjNjMC00LjQtMS42LTcuMy00LjUtNy4zLTMgMC00LjggMi45LTQuOCA3LjNzMS45IDcuMyA0LjggNy4zIDQuNS0yLjggNC41LTcuM3pNMjk2LjMgMTUuMWMwLTguNiA1LjctMTQuNSAxMy45LTE0LjUgNC4xIDAgNy4yIDEuMyA5LjYgMy42IDMuMiAzLjEgNC42IDcuOSA0LjUgMTMuNWgtMTguNGMuNCAzLjQgMiA1LjIgNC45IDUuMiAxLjcgMCAzLjItLjggMy44LTIuNmg5LjNjLTEuNiA2LjMtNi41IDkuNC0xMy40IDkuNC04LjUtLjEtMTQuMi01LjktMTQuMi0xNC42em05LjYtMi45aDguOGMtLjItMy4zLTItNS00LjMtNS0yLjctLjEtNC4yIDEuOC00LjUgNXpNMzM1LjIgNi4xaC4yYzItMy44IDQuNi01LjMgNy45LTUuMy44IDAgMS4zLjEgMS42LjN2OC40aC0uMmMtNS43LTEtOSAxLjctOSA3Ljl2MTEuNUgzMjZWMS40aDkuMnY0Ljd6TTM0NS45IDI4LjloOS4zYy40IDEuMiAxLjYgMi4zIDMuOSAyLjMgMy4xIDAgNC4yLTEuOSA0LjItNC44di0yaC0uMmMtMS41IDEuOC0zLjYgMy4xLTYuNiAzLjEtNS45IDAtMTEuMS00LjQtMTEuMS0xMyAwLTcuOSA0LjItMTQgMTAuNi0xNCAzLjcgMCA1LjkgMS41IDcuNCAzLjhoLjJ2LTNoOS4ydjIzLjhjMCA0LjQtMS41IDcuOC0zLjggOS44LTIuNCAyLjEtNS44IDMtOS43IDMtNy40LjEtMTIuNS0yLjktMTMuNC05em0xNy44LTE0LjhjMC0zLjQtMS42LTYuMi00LjQtNi4yLTIuNyAwLTQuNCAyLjQtNC40IDYuMiAwIDMuNyAxLjcgNi4zIDQuNCA2LjNzNC40LTIuNyA0LjQtNi4zeiIvPjwvc3ZnPg==\") no-repeat;width:7.8125rem;height:1.5rem}.bb-unsupported-message__copy-link{color:#fff;text-decoration:underline}.bb-unsupported-message a:hover{color:#eee}"; var head = doc.head; var style = doc.createElement("style"); var customMsg = customMessage();head.appendChild(style);if (style.styleSheet) { style.styleSheet.cssText = css; } else { style.innerHTML = css; }doc.body.className += " bb-unsupported-browser"; $header().outerHTML = "<div class=\"bb-unsupported-message\"> <div class=\"bb-unsupported-message__message\"> <div class=\"bb-unsupported-message__logo-box\"> <a href=\"//www.bloomberg.co.jp\" class=\"bb-unsupported-message__logo\"></a> </div> <div class=\"bb-unsupported-message__content\"> <p class=\"bb-unsupported-message__copy\"> <span class=\"bb-unsupported-message__text\"> <strong>Your browser is no longer supported.</strong> You can still use the site, but some features may not work as expected. Please consider upgrading to one of the following browsers. </span> <a href=\"http://www.google.com/chrome?hl=en\" class=\"bb-unsupported-message__copy-link\">Chrome</a>, <a href=\"http://www.mozilla.com/firefox/\" class=\"bb-unsupported-message__copy-link\">Firefox</a>, <a href=\"https://itunes.apple.com//app/os-x-mavericks/id675248567?mt=12&uo=4\" class=\"bb-unsupported-message__copy-link\">Safari</a>, <a href=\"http://www.opera.com/browser/\" class=\"bb-unsupported-message__copy-link\">Opera</a> or <a href=\"http://windows.microsoft.com/en-us/internet-explorer/download-ie\" class=\"bb-unsupported-message__copy-link\">Edge / Internet Explorer</a>. </p> </div> </div> </div>"; windough["bb-unsupported-browser"] = true; windough.dispatchEvent(new windough.CustomEvent("bb-unsupported-browser"));if (customMsg) { $unsupportedText().innerHTML = customMsg; } }if (doc.addEventListener) { doc.addEventListener("DOMContentLoaded", message); } else { windough.attachEvent("onload", message); } } })(window, document); </script>
-                <!-- Google Tag Manager --><noscript><iframe src='https://www.googletagmanager.com/ns.html?id=GTM-PWSXPT'height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PWSXPT');</script><!-- End Google Tag Manager -->
-                
-        <div id="parsely-root" style="display: none">
-             <div id="parsely-cfg" data-parsely-site="bloomberg.com"></div>
+  </div>
+<!-- C modules - end -->
+<div id="footer" class="page section">
+    <!-- program footer-->
+  <div class="programs"></div>
+  <div class="subcolumns">
+    <div id="sitemap" class="c75l">
+        <div class="section">
+          <h2>Site Map</h2>
         </div>
-        <script>
-            (function(s, p, d) {
-            var h=d.location.protocol, i=p+"-"+s,
-               e=d.getElementById(i), r=d.getElementById(p+"-root"),
-               u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
-               :"static."+p+".com";
-            if (e) return;
-            e = d.createElement(s); e.id = i; e.async = true;
-            e.src = h+"//"+u+"/p.js"; r.appendChild(e);
-            })("script", "parsely", document);
-        </script>
-     
-                
-        <script type="text/javascript">
-            if (window.matchMedia("all").matches) {
-                var s = document.createElement("script");
-                s.src = "https://assets.bwbx.io/javelin/public/js/components/truste/truste-6ac723d3b5.js";
-                s.type = "text/javascript";
-                s.async = true;
-                document.head.appendChild(s);
-            }
-        </script>
+        <div class="subcolumns">
+          <div class="c16l">
+              <div class="section">
+    <h3>Sections</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
     
-                <!-- Categories: markets, world -->
-<!-- Article is not blocked because : publish date in UTC is 12/14/2016 -->
-            </body>
-        </html>
+    <a href="/news/"
+    >
+  
+
+  
     
+        <span>ABC News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/justin/"
+    >
+  
+
+  
+    
+        <span>Just In</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/australia/"
+    >
+  
+
+  
+    
+        <span>Australia</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/world/"
+    >
+  
+
+  
+    
+        <span>World</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/business/"
+    >
+  
+
+  
+    
+        <span>Business</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/entertainment/"
+    >
+  
+
+  
+    
+        <span>Entertainment</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/sport/"
+    >
+  
+
+  
+    
+        <span>Sport</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/analysis-and-opinion/"
+    >
+  
+
+  
+    
+        <span>Analysis &amp; Opinion</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/weather/"
+    >
+  
+
+  
+    
+        <span>Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/blogs/"
+    >
+  
+
+  
+    
+        <span>Blogs</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/topics/"
+    >
+  
+
+  
+    
+        <span>Topics</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/archive/"
+    >
+  
+
+  
+    
+        <span>Archive</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/corrections/"
+    >
+  
+
+  
+    
+        <span>Corrections &amp; Clarifications</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local Weather</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/sydney/weather/"
+    >
+  
+
+  
+    
+        <span>Sydney Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/melbourne/weather/"
+    >
+  
+
+  
+    
+        <span>Melbourne Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/adelaide/weather/"
+    >
+  
+
+  
+    
+        <span>Adelaide Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/brisbane/weather/"
+    >
+  
+
+  
+    
+        <span>Brisbane Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/perth/weather/"
+    >
+  
+
+  
+    
+        <span>Perth Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/hobart/weather/"
+    >
+  
+
+  
+    
+        <span>Hobart Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/darwin/weather/"
+    >
+  
+
+  
+    
+        <span>Darwin Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/canberra/weather/"
+    >
+  
+
+  
+    
+        <span>Canberra Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local News</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/sydney/news/"
+    >
+  
+
+  
+    
+        <span>Sydney News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/melbourne/news/"
+    >
+  
+
+  
+    
+        <span>Melbourne News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/adelaide/news/"
+    >
+  
+
+  
+    
+        <span>Adelaide News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/brisbane/news/"
+    >
+  
+
+  
+    
+        <span>Brisbane News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/perth/news/"
+    >
+  
+
+  
+    
+        <span>Perth News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/hobart/news/"
+    >
+  
+
+  
+    
+        <span>Hobart News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/darwin/news/"
+    >
+  
+
+  
+    
+        <span>Darwin News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/canberra/news/"
+    >
+  
+
+  
+    
+        <span>Canberra News</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Media</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/video/"
+    >
+  
+
+  
+    
+        <span>Video</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/audio/"
+    >
+  
+
+  
+    
+        <span>Audio</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/photos/"
+    >
+  
+
+  
+    
+        <span>Photos</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Subscribe</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/feeds/"
+    >
+  
+
+  
+    
+        <span>Podcasts</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/feeds/rss/"
+    >
+  
+
+  
+    
+        <span>RSS Feeds</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/alerts/"
+    >
+  
+
+  
+    
+        <span>NewsMail</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Connect</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/upload/"
+    >
+  
+
+  
+    
+        <span>Upload</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/"
+    >
+  
+
+  
+    
+        <span>Contact Us</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/analysis-and-opinion/"
+    >
+  
+
+  
+    
+        <span>Suggest a Contributor</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            </div>
+      </div>
+    <!-- right section-->
+    <div class="c25r">
+      <div id="fineprint" class="section">
+        <p>
+          <small>This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.</small>
+        </p>
+        <p>
+          <small>AEDT = Australian Eastern Daylight Savings Time which is 11 hours ahead of UTC (Greenwich Mean Time)</small>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="platforms">
+      <a href="http://mobile.abc.net.au/news/2016-11-29/malaysian-pm-najib-razak-voices-support-for-islamic-laws-as-he-/8076766?pfm=sm" class="platform-mobile switch">Change to mobile view</a></div>
+  </div><!-- End footer --></div>
+<!-- Start Webtrends -->
+<div class="hide">
+  </div>
+<!-- End Webtrends -->
+<!--endnoindex--><!--Global footer-->
+<!--noindex-->
+<!-- Start ABC Bundle Footer 2.0.5 -->
+<nav id="abcFooter" class="global" role="navigation" aria-label="ABC Footer Navigation" data-version="2.0.5">
+ <ul>
+  <li><a class="abcLink" href="http://www.abc.net.au/conditions.htm" data-mobile="http://www.abc.net.au/conditions.htm">Terms of Use</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/abc-privacy-policy/" data-mobile="http://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+  <li><a class="abcLink" href="http://www.abc.net.au/contact/" data-mobile="http://www.abc.net.au/contact/">Contact Us</a></li>
+  <li><a class="abcLink" href="http://www.abc.net.au/conditions.htm#UseOfContent" data-mobile="http://www.abc.net.au/conditions.htm#UseOfContent">&copy; <time>2016</time> ABC</a></li>
+ </ul>
+</nav>
+<script type="text/javascript" src="http://www.abc.net.au/res/bundles/2.0.5/scripts/abc.bundle.2.0.5.min.js"></script>
+<script type="text/javascript" src="//www.abc.net.au/res/libraries/stats/abc.stats.js"></script>
+<noscript>
+ <img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcsg85fae000004n0vfjpj8oa_9m4q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.abc.net.au">
+</noscript>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js"></script>
+<script type="text/javascript">
+try {
+  var pvar = { cid: "abc-aust", content: "0", server: "secure-au" };
+  var trac = nol_t(pvar);
+  trac.record().post();
+} catch (er) {
+  // do nothing
+}
+</script>
+<noscript><div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=abc-aust&cg=0&cc=1&ts=noscript" width="1" height="1" alt=""></div></noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+// <![CDATA[
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PB2GX');
+ // ]]>
+</script>
+<noscript>
+ <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB2GX" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager -->
+<!-- End ABC Bundle Footer 2.0.5 -->
+<!--endnoindex-->
+<!--end global footer-->
+</body>
+</html>
